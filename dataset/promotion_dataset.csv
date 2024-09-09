@@ -1,0 +1,651 @@
+,Date,ProductID,ProductName,Category,OriginalPrice,DiscountPrice,PromotionType,PromotionText,SalesVolume,Revenue,SalesOrganization,DistributionChannel,BusinessUnit,BusinessUnitType
+0,13-04-2023,1002,iPhone 15,Smartphones,80.6,14.76,Free Gift,Get a free case,22,1404,Central,Catalog,BU214,Retail Store
+1,26-10-2023,8001,iPhone 15 Pro,Smartphones,65.6,11.13,Discount,Get a free case,27,2163,North,Online,BU218,DistributionCenter
+2,18-02-2023,7001,OnePlus 12,Smartphones,83.2,13.71,Bonus Buy,Get 10% off,12,1274,West,In-store,BU212,Retail Store
+3,24-03-2022,1002,OnePlus 11,Smartphones,87.84,10.67,BOGOF,Free adapter,59,1931,South,In-store,BU201,DistributionCenter
+4,06-01-2022,7001,iPhone 15,Smartphones,71.41,10.9,BOGOF,Get 10% off,13,2919,South,Catalog,BU213,Retail Store
+5,20-05-2022,8001,Google Pixel 8,Smartphones,60.93,13.58,Bonus Buy,Get a free case,12,2429,South,In-store,BU210,Retail Store
+6,18-05-2023,8001,Samsung A70,Smartphones,86.63,13.29,Discount,Free adapter,14,1542,South,Online,BU201,DistributionCenter
+7,09-09-2023,4001,Samsung S23,Smartphones,78.22,10.68,Bonus Buy,Get 10% off on earbuds,25,1424,Central,Catalog,BU217,DistributionCenter
+8,07-02-2022,5001,Samsung A70,Smartphones,88.15,11.2,Discount,Get 10% off on earbuds,12,2471,East,Catalog,BU204,DistributionCenter
+9,11-02-2022,9001,OnePlus 11,Smartphones,60.45,10.45,Free Gift,Get a free case,55,1883,West,Online,BU205,Retail Store
+10,09-12-2022,5001,iPhone 14 Pro,Smartphones,70.58,11.91,BOGOF,Get a free case,33,2710,Central,In-store,BU212,DistributionCenter
+11,29-09-2023,1002,OnePlus 12,Smartphones,82.04,11.17,Free Gift,Get 10% off,17,1381,East,Online,BU214,DistributionCenter
+12,27-03-2022,5001,OnePlus 11,Smartphones,72.61,11.01,Free Gift,Get 10% off on earbuds,38,2083,South,Online,BU207,DistributionCenter
+13,15-05-2023,5001,iPhone 15 Pro,Smartphones,80.68,14.41,Discount,Free adapter,35,1536,West,Catalog,BU204,Retail Store
+14,23-03-2023,9001,OnePlus 12,Smartphones,81.27,11.41,BOGOF,Free adapter,24,2924,West,In-store,BU202,DistributionCenter
+15,05-04-2023,4001,iPhone 14 Pro,Smartphones,70.32,12.57,Bonus Buy,Free adapter,27,1407,Central,Online,BU207,DistributionCenter
+16,18-06-2022,7001,Samsung S23,Smartphones,79.26,14.29,Bonus Buy,Get a free case,40,1685,North,Online,BU212,DistributionCenter
+17,12-01-2022,7001,iPhone 15 Pro,Smartphones,81.83,11.17,Discount,Get a free case,49,2347,West,Catalog,BU218,DistributionCenter
+18,09-01-2023,7001,Google Pixel 8,Smartphones,75.1,14.31,Free Gift,Get 10% off,46,2893,Central,In-store,BU210,DistributionCenter
+19,17-11-2023,6001,Samsung S23,Smartphones,62.55,13.68,Bonus Buy,Get a free case,53,2515,West,Online,BU202,Retail Store
+20,14-01-2022,10001,iPhone 15 Pro,Smartphones,85.65,12.69,Discount,Get a free case,41,2642,South,In-store,BU213,Retail Store
+21,06-01-2023,5001,Samsung A70,Smartphones,89.17,14.88,Bonus Buy,Get a free case,34,2465,Central,Online,BU208,Retail Store
+22,05-08-2022,1001,Samsung S23,Smartphones,89.97,12.67,BOGOF,Get a free case,51,1931,South,In-store,BU207,Retail Store
+23,17-08-2023,8001,Samsung A70,Smartphones,60.99,12.81,Free Gift,Get 10% off on earbuds,33,1547,West,In-store,BU218,Retail Store
+24,09-06-2022,1002,Samsung A70,Smartphones,70.36,10.13,Bonus Buy,Get 10% off on earbuds,29,2025,South,Online,BU202,Retail Store
+25,16-06-2023,6001,iPhone 15 Pro,Smartphones,89.86,10.07,Discount,Get 10% off,60,2260,South,In-store,BU200,Retail Store
+26,21-08-2023,3001,iPhone 15,Smartphones,62.37,13.49,BOGOF,Get a free case,10,1260,South,Online,BU203,Retail Store
+27,22-11-2023,9001,iPhone 15,Smartphones,64.58,13,Bonus Buy,Get 10% off,45,1957,Central,In-store,BU210,Retail Store
+28,02-06-2022,5001,OnePlus 11,Smartphones,87.02,11.13,Bonus Buy,Get 10% off,23,1556,East,Online,BU209,Retail Store
+29,26-02-2023,1001,OnePlus 12,Smartphones,62.17,11.81,Free Gift,Get 10% off on earbuds,25,2019,East,Online,BU206,Retail Store
+30,06-08-2022,1001,OnePlus 12,Smartphones,71.26,12.36,Free Gift,Get 10% off on earbuds,37,2155,West,Online,BU207,DistributionCenter
+31,09-01-2023,8001,OnePlus 11,Smartphones,68.82,10.75,Discount,Get 10% off on earbuds,39,2394,South,Catalog,BU215,DistributionCenter
+32,17-08-2023,9001,iPhone 15 Pro,Smartphones,75.41,11.54,Free Gift,Get 10% off,58,1800,Central,In-store,BU209,Retail Store
+33,06-12-2022,7001,iPhone 14,Smartphones,88.66,10.29,Discount,Get a free case,55,1947,South,Online,BU209,Retail Store
+34,08-06-2023,1001,OnePlus 11,Smartphones,81.5,13.77,Bonus Buy,Get 10% off,13,2827,West,Online,BU213,DistributionCenter
+35,18-12-2023,4001,Samsung A70,Smartphones,85.6,14.04,Bonus Buy,Get 10% off,48,1352,West,In-store,BU212,DistributionCenter
+36,08-10-2023,3001,iPhone 14 Pro,Smartphones,72.39,14.22,Discount,Get 10% off,53,1686,West,Catalog,BU202,Retail Store
+37,20-08-2022,3001,OnePlus 11,Smartphones,63.97,10.19,Bonus Buy,Free adapter,39,2937,Central,Online,BU201,Retail Store
+38,27-07-2022,3001,OnePlus 12,Smartphones,75.7,14.28,BOGOF,Get a free case,55,2699,Central,In-store,BU216,Retail Store
+39,07-09-2023,9001,Google Pixel 8,Smartphones,79.43,12.54,Free Gift,Get 10% off on earbuds,27,1465,West,Online,BU207,Retail Store
+40,04-03-2023,8001,OnePlus 12,Smartphones,73.96,13.78,Bonus Buy,Get 10% off,46,1435,Central,Catalog,BU211,Retail Store
+41,25-06-2022,1001,Google Pixel 8,Smartphones,75.51,13.1,BOGOF,Get a free case,22,1459,West,In-store,BU215,DistributionCenter
+42,08-10-2023,6001,iPhone 14,Smartphones,61.92,13.79,Discount,Get 10% off on earbuds,19,2998,North,Catalog,BU206,Retail Store
+43,15-05-2023,6001,Samsung A70,Smartphones,83.93,11.43,Bonus Buy,Get a free case,34,1306,South,Online,BU208,Retail Store
+44,23-03-2022,1002,Google Pixel 7,Smartphones,85.44,11.07,Bonus Buy,Get a free case,54,1697,West,Catalog,BU211,DistributionCenter
+45,27-11-2023,10001,iPhone 14 Pro,Smartphones,69.75,12.8,Bonus Buy,Get 10% off on earbuds,25,2677,North,Online,BU207,DistributionCenter
+46,29-08-2023,1001,iPhone 15,Smartphones,66.29,12.15,Discount,Get 10% off,55,1875,South,Online,BU205,Retail Store
+47,22-02-2023,8001,iPhone 14,Smartphones,77.57,12.79,Free Gift,Free adapter,28,2099,West,In-store,BU207,DistributionCenter
+48,04-07-2022,1001,Samsung S23,Smartphones,64.19,10.26,Free Gift,Get 10% off on earbuds,53,1639,West,Catalog,BU206,DistributionCenter
+49,28-03-2022,1001,Samsung S23,Smartphones,79.76,14.84,Discount,Get 10% off,32,2923,East,Catalog,BU205,DistributionCenter
+50,15-09-2023,6001,Samsung A70,Smartphones,82.43,11.48,BOGOF,Get 10% off,41,2445,West,In-store,BU206,Retail Store
+51,11-08-2022,10001,Samsung S23,Smartphones,81.1,12.6,Bonus Buy,Get 10% off,17,2735,South,Online,BU216,DistributionCenter
+52,12-05-2022,1002,OnePlus 11,Smartphones,77.98,14.3,Discount,Get 10% off on earbuds,49,2820,Central,Online,BU209,Retail Store
+53,07-05-2023,7001,Google Pixel 8,Smartphones,63.3,13.88,Bonus Buy,Get a free case,29,2833,North,Catalog,BU200,DistributionCenter
+54,21-10-2022,4001,OnePlus 11,Smartphones,73.99,12.7,BOGOF,Free adapter,41,1836,North,In-store,BU205,Retail Store
+55,14-05-2023,10001,iPhone 15,Smartphones,85.93,12.27,Discount,Get a free case,22,1294,North,Catalog,BU207,Retail Store
+56,30-08-2023,6001,Google Pixel 7,Smartphones,80.85,11.47,BOGOF,Get a free case,55,1542,South,Catalog,BU202,DistributionCenter
+57,24-10-2023,1001,Samsung A70,Smartphones,69.31,10.5,Free Gift,Get a free case,58,1721,West,Online,BU217,Retail Store
+58,14-04-2022,10001,iPhone 15 Pro,Smartphones,73.73,11.23,Bonus Buy,Get 10% off,37,1236,South,Online,BU212,Retail Store
+59,26-02-2022,1001,iPhone 14 Pro,Smartphones,79.33,10.82,Bonus Buy,Get 10% off,49,2998,North,Online,BU215,Retail Store
+60,07-01-2022,7001,iPhone 15 Pro,Smartphones,60.7,11.74,BOGOF,Free adapter,28,2506,Central,Catalog,BU215,DistributionCenter
+61,23-06-2022,3001,iPhone 15 Pro,Smartphones,67.78,10.81,Discount,Get 10% off,21,2266,East,Online,BU214,Retail Store
+62,06-01-2023,4001,Samsung A70,Smartphones,88.22,13.98,Bonus Buy,Get 10% off,47,1481,West,Online,BU205,DistributionCenter
+63,08-09-2023,10001,Samsung S23,Smartphones,89.11,10.61,Free Gift,Get 10% off,54,1836,East,Online,BU213,Retail Store
+64,17-09-2023,1001,iPhone 14,Smartphones,65.07,13.9,Bonus Buy,Free adapter,54,2191,West,In-store,BU216,Retail Store
+65,29-07-2022,7001,Google Pixel 7,Smartphones,72.96,13.79,Bonus Buy,Get 10% off,27,2469,South,Online,BU213,DistributionCenter
+66,28-07-2023,8001,Google Pixel 7,Smartphones,79.87,11.68,Bonus Buy,Get 10% off on earbuds,50,1509,North,Online,BU207,DistributionCenter
+67,28-01-2022,3001,Samsung S23,Smartphones,62.1,11.19,Discount,Get 10% off on earbuds,31,2102,North,Online,BU215,Retail Store
+68,20-05-2022,6001,OnePlus 12,Smartphones,86.08,13.52,Bonus Buy,Get a free case,19,1992,South,Catalog,BU215,Retail Store
+69,15-10-2022,9001,iPhone 14,Smartphones,78.79,14.96,BOGOF,Free adapter,36,1447,Central,In-store,BU208,Retail Store
+70,16-04-2022,10001,OnePlus 11,Smartphones,85.38,14.08,Discount,Free adapter,30,2881,North,Online,BU219,Retail Store
+71,10-10-2023,1001,Samsung A70,Smartphones,69.23,10.33,Bonus Buy,Get a free case,12,1674,West,Online,BU217,Retail Store
+72,05-08-2023,7001,Samsung S23,Smartphones,60.31,11.05,BOGOF,Get a free case,19,1616,East,Catalog,BU208,Retail Store
+73,08-01-2023,8001,Google Pixel 7,Smartphones,87.75,14.52,Discount,Free adapter,35,2973,Central,In-store,BU203,DistributionCenter
+74,23-12-2022,3001,iPhone 14 Pro,Smartphones,66.81,11.68,Discount,Get 10% off on earbuds,23,2143,Central,Catalog,BU218,Retail Store
+75,05-11-2023,7001,OnePlus 11,Smartphones,88.5,14.9,Discount,Get 10% off,37,1340,West,Online,BU203,Retail Store
+76,22-05-2023,9001,OnePlus 11,Smartphones,74.73,12.38,Free Gift,Get 10% off,52,2594,West,In-store,BU212,DistributionCenter
+77,07-11-2022,6001,Google Pixel 8,Smartphones,78.95,10.76,Free Gift,Get 10% off on earbuds,20,2221,West,In-store,BU218,Retail Store
+78,22-03-2022,1002,Samsung A70,Smartphones,86.76,11.62,Discount,Get 10% off,54,1443,North,Catalog,BU212,DistributionCenter
+79,02-02-2022,8001,Google Pixel 7,Smartphones,80.1,12.17,Free Gift,Get a free case,46,1766,East,In-store,BU202,DistributionCenter
+80,09-07-2022,3001,Samsung S23,Smartphones,78.45,11.54,Bonus Buy,Get 10% off on earbuds,15,1515,West,Online,BU201,DistributionCenter
+81,12-02-2023,3001,OnePlus 12,Smartphones,66.47,13.42,Bonus Buy,Get 10% off on earbuds,20,1477,North,Catalog,BU200,DistributionCenter
+82,02-11-2023,7001,Google Pixel 8,Smartphones,70.18,11.58,Discount,Get a free case,37,2037,West,In-store,BU201,Retail Store
+83,18-07-2022,9001,iPhone 14,Smartphones,75.12,11.65,Discount,Get 10% off,39,2240,East,Catalog,BU204,Retail Store
+84,13-12-2022,6001,Google Pixel 7,Smartphones,64.27,11.53,Free Gift,Get a free case,12,2681,North,In-store,BU207,Retail Store
+85,18-03-2023,7001,Google Pixel 7,Smartphones,79.95,13.54,Discount,Get 10% off on earbuds,46,2993,Central,In-store,BU205,DistributionCenter
+86,30-10-2022,10001,OnePlus 12,Smartphones,73.79,10.82,Discount,Get 10% off on earbuds,34,2432,West,Catalog,BU201,Retail Store
+87,26-04-2023,4001,OnePlus 11,Smartphones,78.25,11.7,Bonus Buy,Free adapter,50,2201,North,In-store,BU216,DistributionCenter
+88,20-09-2022,6001,iPhone 15 Pro,Smartphones,78.12,10.1,BOGOF,Get a free case,52,1652,Central,Online,BU201,Retail Store
+89,01-03-2022,9001,Google Pixel 7,Smartphones,72.97,13.21,Discount,Get a free case,26,2124,South,In-store,BU211,Retail Store
+90,09-07-2022,1001,Google Pixel 8,Smartphones,72.34,12.3,Discount,Get 10% off,50,1722,East,Catalog,BU213,Retail Store
+91,14-01-2023,9001,iPhone 15,Smartphones,66.86,13.31,Bonus Buy,Get a free case,40,1591,South,Catalog,BU215,Retail Store
+92,23-02-2023,6001,Google Pixel 8,Smartphones,89.87,10.7,Bonus Buy,Free adapter,26,2278,North,Online,BU205,Retail Store
+93,02-10-2022,9001,OnePlus 12,Smartphones,61.23,11.66,Bonus Buy,Get a free case,21,1711,Central,Catalog,BU213,Retail Store
+94,08-10-2023,5001,iPhone 15 Pro,Smartphones,63.07,10.65,Bonus Buy,Free adapter,50,2975,South,Catalog,BU201,Retail Store
+95,25-04-2023,6001,OnePlus 12,Smartphones,65.42,11.8,BOGOF,Get a free case,42,2152,South,In-store,BU209,DistributionCenter
+96,08-11-2022,8001,OnePlus 12,Smartphones,66.42,11.32,Bonus Buy,Get 10% off,45,2704,West,Catalog,BU215,DistributionCenter
+97,01-05-2022,1001,OnePlus 12,Smartphones,71.03,11.16,Free Gift,Free adapter,35,1693,South,Online,BU200,Retail Store
+98,12-03-2023,3001,Google Pixel 8,Smartphones,80.57,13.09,BOGOF,Get a free case,32,1713,North,In-store,BU206,DistributionCenter
+99,18-09-2022,6001,Google Pixel 7,Smartphones,85.18,11.25,Free Gift,Get 10% off on earbuds,47,2347,Central,In-store,BU211,Retail Store
+100,23-12-2022,9001,iPhone 15 Pro,Smartphones,78.46,10.27,BOGOF,Get 10% off,14,1343,North,Online,BU204,Retail Store
+101,12-08-2023,4001,OnePlus 12,Smartphones,75.29,12.92,Free Gift,Get 10% off,23,2563,Central,Catalog,BU200,Retail Store
+102,22-03-2022,10001,Google Pixel 7,Smartphones,66.77,10.25,BOGOF,Get 10% off,53,1419,Central,Catalog,BU218,Retail Store
+103,28-05-2022,4001,iPhone 15 Pro,Smartphones,65.35,13.79,Discount,Free adapter,15,2594,South,Online,BU202,Retail Store
+104,06-10-2022,7001,Google Pixel 7,Smartphones,69.07,10.5,Bonus Buy,Free adapter,53,2153,East,Catalog,BU202,DistributionCenter
+105,07-04-2023,1002,iPhone 15 Pro,Smartphones,61.9,10.43,Discount,Free adapter,21,1984,East,Catalog,BU216,Retail Store
+106,30-04-2023,3001,Samsung S23,Smartphones,82.15,12.21,Discount,Free adapter,48,1762,North,Catalog,BU203,DistributionCenter
+107,27-09-2022,6001,iPhone 15,Smartphones,73.65,13.92,Bonus Buy,Get 10% off on earbuds,57,2806,South,Online,BU201,Retail Store
+108,17-12-2022,1002,Google Pixel 7,Smartphones,87.83,12.66,Bonus Buy,Get 10% off,25,1512,East,In-store,BU207,DistributionCenter
+109,02-01-2022,5001,iPhone 15 Pro,Smartphones,89.55,12.23,Discount,Get a free case,60,2668,West,Catalog,BU216,Retail Store
+110,20-03-2022,1002,iPhone 14 Pro,Smartphones,88.45,10.53,Bonus Buy,Get 10% off,15,1709,East,Catalog,BU205,Retail Store
+111,16-09-2023,10001,iPhone 15 Pro,Smartphones,83.51,14.27,Bonus Buy,Free adapter,52,2089,South,Catalog,BU201,DistributionCenter
+112,05-05-2023,7001,iPhone 15 Pro,Smartphones,67.34,13.42,BOGOF,Free adapter,52,1948,North,Catalog,BU205,Retail Store
+113,03-05-2022,10001,Google Pixel 7,Smartphones,87.97,10.35,Free Gift,Free adapter,38,2671,Central,In-store,BU207,Retail Store
+114,14-05-2023,1002,Samsung S23,Smartphones,85.47,11.78,Free Gift,Free adapter,14,1541,Central,Online,BU202,DistributionCenter
+115,11-09-2022,6001,OnePlus 11,Smartphones,80.62,10.04,Discount,Get 10% off,32,1890,Central,Catalog,BU209,Retail Store
+116,07-02-2023,7001,Google Pixel 8,Smartphones,79.65,13.75,Bonus Buy,Free adapter,56,1491,Central,Online,BU218,DistributionCenter
+117,17-11-2022,7001,iPhone 14,Smartphones,60.72,12.35,Free Gift,Free adapter,48,2357,West,In-store,BU219,DistributionCenter
+118,24-03-2023,4001,iPhone 15 Pro,Smartphones,69.83,12.38,Bonus Buy,Get a free case,15,1753,East,Catalog,BU214,DistributionCenter
+119,13-12-2022,1002,Google Pixel 7,Smartphones,87.73,14.43,BOGOF,Free adapter,32,1620,East,In-store,BU210,DistributionCenter
+120,20-04-2023,1001,iPhone 14,Smartphones,64.07,14.36,Bonus Buy,Get 10% off,18,1966,Central,In-store,BU207,Retail Store
+121,08-03-2023,4001,Samsung A70,Smartphones,82.24,13.25,Discount,Get 10% off on earbuds,39,1886,West,In-store,BU210,DistributionCenter
+122,11-11-2023,9001,iPhone 15 Pro,Smartphones,81.13,14.61,Bonus Buy,Get a free case,60,2330,South,Online,BU204,DistributionCenter
+123,20-03-2022,1001,Samsung A70,Smartphones,87.66,11.51,Discount,Free adapter,29,2481,North,In-store,BU202,Retail Store
+124,05-12-2023,5001,Google Pixel 7,Smartphones,73.85,12.73,Discount,Get 10% off,13,1825,Central,In-store,BU208,DistributionCenter
+125,24-06-2022,1002,iPhone 15 Pro,Smartphones,89.89,10.99,Bonus Buy,Free adapter,27,2712,North,Catalog,BU216,DistributionCenter
+126,01-04-2023,5001,Google Pixel 7,Smartphones,83.77,13.2,BOGOF,Get a free case,13,2885,North,Online,BU207,Retail Store
+127,31-10-2023,1002,OnePlus 12,Smartphones,86.9,13.47,Free Gift,Get a free case,21,1395,South,Online,BU206,Retail Store
+128,07-08-2023,10001,iPhone 14,Smartphones,78,10.58,BOGOF,Free adapter,40,2790,North,Online,BU209,DistributionCenter
+129,23-01-2023,1001,Google Pixel 7,Smartphones,77.91,14.91,Discount,Get 10% off,58,1392,West,Catalog,BU201,Retail Store
+130,04-06-2023,1002,iPhone 14,Smartphones,84.54,14.67,BOGOF,Free adapter,49,2002,South,Catalog,BU216,DistributionCenter
+131,22-05-2022,1001,iPhone 14,Smartphones,71.01,14.17,Discount,Get a free case,36,1943,West,In-store,BU211,Retail Store
+132,27-05-2022,4001,Samsung A70,Smartphones,79.48,13.61,Discount,Free adapter,54,1898,East,In-store,BU201,Retail Store
+133,23-03-2023,4001,OnePlus 11,Smartphones,61.92,14.59,Discount,Free adapter,43,1261,South,Catalog,BU219,Retail Store
+134,07-08-2022,8001,OnePlus 11,Smartphones,72.09,13.66,Free Gift,Get 10% off,40,2911,North,In-store,BU213,DistributionCenter
+135,07-04-2022,6001,iPhone 14,Smartphones,64.67,12.28,Discount,Get 10% off on earbuds,32,2024,West,Online,BU200,Retail Store
+136,05-10-2023,4001,Samsung A70,Smartphones,84.25,13.86,Bonus Buy,Get 10% off on earbuds,46,1507,South,In-store,BU209,DistributionCenter
+137,12-06-2022,9001,iPhone 15,Smartphones,62.43,14.32,Free Gift,Get a free case,22,2455,West,Catalog,BU218,Retail Store
+138,02-02-2022,6001,iPhone 15,Smartphones,67.61,12.76,BOGOF,Get a free case,52,1501,Central,In-store,BU205,Retail Store
+139,31-05-2023,5001,Samsung A70,Smartphones,71.63,12.67,Bonus Buy,Free adapter,55,1634,West,Online,BU205,Retail Store
+140,03-09-2023,3001,Google Pixel 7,Smartphones,71.62,14.71,BOGOF,Get 10% off on earbuds,26,1946,South,In-store,BU206,DistributionCenter
+141,09-11-2023,9001,Google Pixel 8,Smartphones,63.91,14.53,BOGOF,Get 10% off,26,2412,West,Catalog,BU207,Retail Store
+142,28-07-2023,8001,iPhone 15,Smartphones,78.9,11.21,Free Gift,Get 10% off on earbuds,55,1793,Central,Online,BU211,Retail Store
+143,23-07-2023,10001,OnePlus 12,Smartphones,72.14,13.85,BOGOF,Get 10% off,45,2729,Central,In-store,BU204,DistributionCenter
+144,29-09-2023,1002,Samsung A70,Smartphones,67.99,12.42,BOGOF,Get 10% off on earbuds,57,2983,West,Online,BU215,DistributionCenter
+145,04-01-2022,6001,iPhone 14,Smartphones,78.97,12.5,BOGOF,Free adapter,52,1893,East,In-store,BU200,Retail Store
+146,15-05-2022,8001,iPhone 14 Pro,Smartphones,71.08,14,BOGOF,Get a free case,58,2256,Central,Catalog,BU204,Retail Store
+147,17-08-2022,5001,iPhone 14,Smartphones,78.05,11.52,Discount,Get a free case,17,2094,Central,Online,BU206,Retail Store
+148,30-08-2023,3001,iPhone 15 Pro,Smartphones,83.42,13.07,Free Gift,Get a free case,15,2239,North,Online,BU202,DistributionCenter
+149,30-06-2022,1002,iPhone 15 Pro,Smartphones,65.67,13.52,Free Gift,Get 10% off,38,2723,Central,Online,BU218,Retail Store
+150,13-04-2023,5001,Google Pixel 8,Smartphones,71.26,13.75,Bonus Buy,Get 10% off on earbuds,34,1218,Central,In-store,BU210,Retail Store
+151,13-01-2023,8001,Samsung A70,Smartphones,89.05,13.59,Discount,Free adapter,24,1274,Central,Catalog,BU216,DistributionCenter
+152,19-11-2022,1002,Samsung S23,Smartphones,85.26,12.75,Bonus Buy,Free adapter,10,1271,East,Catalog,BU201,DistributionCenter
+153,24-08-2023,4001,Google Pixel 8,Smartphones,69.38,10.88,Discount,Get a free case,10,1591,West,Online,BU217,Retail Store
+154,01-10-2022,4001,iPhone 15,Smartphones,76.29,13.62,BOGOF,Get 10% off on earbuds,25,2510,North,Online,BU215,DistributionCenter
+155,18-06-2022,8001,Samsung S23,Smartphones,82.74,12.82,Bonus Buy,Get 10% off on earbuds,30,2153,North,In-store,BU211,Retail Store
+156,14-11-2022,6001,iPhone 14,Smartphones,62.78,10.59,Bonus Buy,Free adapter,23,1989,Central,Online,BU214,Retail Store
+157,24-04-2022,5001,Samsung S23,Smartphones,63.93,13.2,Free Gift,Get 10% off on earbuds,16,1267,West,In-store,BU213,Retail Store
+158,15-04-2022,4001,OnePlus 12,Smartphones,76.18,10.37,BOGOF,Get a free case,29,2003,Central,In-store,BU208,Retail Store
+159,11-11-2022,1002,Samsung S23,Smartphones,77.73,10.62,Free Gift,Get a free case,57,1395,Central,In-store,BU205,DistributionCenter
+160,01-10-2023,1001,iPhone 15 Pro,Smartphones,81.07,12.43,BOGOF,Get 10% off,15,2209,Central,In-store,BU212,DistributionCenter
+161,31-03-2023,10001,iPhone 15,Smartphones,79.7,13.9,Free Gift,Get 10% off,59,2962,East,In-store,BU204,DistributionCenter
+162,14-04-2022,7001,Samsung S23,Smartphones,72.83,13.66,BOGOF,Get a free case,55,2163,West,Online,BU200,DistributionCenter
+163,02-12-2023,9001,Google Pixel 7,Smartphones,75.63,13.42,Free Gift,Get 10% off,43,2375,South,In-store,BU219,Retail Store
+164,12-08-2022,3001,iPhone 15 Pro,Smartphones,65.05,13.72,Bonus Buy,Get 10% off on earbuds,18,2988,North,In-store,BU213,DistributionCenter
+165,03-08-2023,10001,iPhone 14 Pro,Smartphones,71.67,12.09,Discount,Get 10% off,38,2198,East,In-store,BU216,Retail Store
+166,10-10-2022,6001,iPhone 14 Pro,Smartphones,61.7,13.19,Discount,Free adapter,39,2969,South,Online,BU216,DistributionCenter
+167,09-12-2023,1001,iPhone 15 Pro,Smartphones,69.4,14.19,BOGOF,Get 10% off,27,1722,West,Online,BU207,Retail Store
+168,10-08-2022,9001,iPhone 14 Pro,Smartphones,66.31,13.19,Bonus Buy,Free adapter,46,1490,South,Online,BU219,Retail Store
+169,04-06-2022,6001,Google Pixel 8,Smartphones,65.3,11.94,BOGOF,Get 10% off,37,2400,North,In-store,BU206,Retail Store
+170,24-06-2022,5001,iPhone 14 Pro,Smartphones,68.8,14.84,BOGOF,Get 10% off,43,1343,East,Catalog,BU215,Retail Store
+171,01-02-2023,6001,OnePlus 11,Smartphones,67.7,11.99,Bonus Buy,Free adapter,15,1613,North,Catalog,BU211,DistributionCenter
+172,25-03-2023,6001,OnePlus 11,Smartphones,70.54,10.08,Discount,Get 10% off,17,1627,South,Online,BU201,Retail Store
+173,28-02-2023,10001,Samsung A70,Smartphones,67.39,14.94,Discount,Get a free case,58,1538,South,Online,BU218,DistributionCenter
+174,22-06-2022,10001,Google Pixel 8,Smartphones,70.24,11.69,BOGOF,Get 10% off on earbuds,51,2066,Central,In-store,BU219,Retail Store
+175,26-07-2023,3001,iPhone 14,Smartphones,80.86,12.9,BOGOF,Get a free case,37,2336,South,Online,BU202,Retail Store
+176,20-06-2023,5001,OnePlus 11,Smartphones,88.02,10.92,Discount,Free adapter,30,1542,East,Online,BU217,DistributionCenter
+177,07-01-2022,1002,Samsung A70,Smartphones,86.35,12.3,BOGOF,Free adapter,41,1570,Central,Online,BU208,Retail Store
+178,14-03-2022,8001,iPhone 14,Smartphones,72.12,11.32,Free Gift,Get 10% off,14,1208,East,Online,BU201,Retail Store
+179,29-04-2022,7001,OnePlus 11,Smartphones,78.23,10.14,Free Gift,Get 10% off on earbuds,25,1493,West,Catalog,BU205,DistributionCenter
+180,16-11-2022,4001,OnePlus 12,Smartphones,79.32,10.29,Discount,Get 10% off,28,1711,West,Catalog,BU200,Retail Store
+181,30-04-2022,3001,iPhone 14,Smartphones,88.72,10.9,Discount,Get 10% off,59,1924,South,Online,BU205,DistributionCenter
+182,14-10-2022,3001,Samsung A70,Smartphones,70.4,11.88,Discount,Get 10% off,26,2092,South,In-store,BU206,Retail Store
+183,28-02-2023,10001,Google Pixel 8,Smartphones,68.17,14.81,Bonus Buy,Get 10% off on earbuds,37,2387,North,Online,BU212,DistributionCenter
+184,08-01-2023,6001,Google Pixel 8,Smartphones,80.2,10.04,Discount,Get a free case,60,2036,West,Online,BU203,Retail Store
+185,09-05-2023,6001,Google Pixel 7,Smartphones,72.82,14.75,BOGOF,Get 10% off on earbuds,44,1303,Central,Online,BU212,DistributionCenter
+186,24-11-2023,6001,Samsung S23,Smartphones,65.11,14.12,Discount,Get 10% off,27,1398,South,In-store,BU207,Retail Store
+187,13-10-2022,5001,Samsung S23,Smartphones,87.28,12.38,BOGOF,Get 10% off,25,1503,East,Catalog,BU201,Retail Store
+188,19-12-2023,1002,Samsung A70,Smartphones,74.34,13.44,Free Gift,Get a free case,60,1528,Central,Catalog,BU204,Retail Store
+189,08-03-2022,7001,iPhone 14,Smartphones,86.17,14.34,Discount,Get 10% off on earbuds,39,2956,East,In-store,BU211,Retail Store
+190,16-08-2022,3001,iPhone 15,Smartphones,78.23,14.92,Free Gift,Get 10% off on earbuds,44,1887,East,Catalog,BU208,Retail Store
+191,12-05-2022,9001,Samsung A70,Smartphones,66.92,13.47,Bonus Buy,Free adapter,25,1378,South,Online,BU210,DistributionCenter
+192,23-06-2023,4001,iPhone 14,Smartphones,67.32,11.3,BOGOF,Get 10% off,45,2528,East,Catalog,BU204,DistributionCenter
+193,21-08-2022,6001,Samsung A70,Smartphones,89.93,12.65,Discount,Free adapter,24,1873,South,In-store,BU214,Retail Store
+194,14-10-2023,3001,Google Pixel 7,Smartphones,79.92,14.33,Free Gift,Free adapter,42,1393,North,In-store,BU208,DistributionCenter
+195,17-11-2022,1002,Google Pixel 8,Smartphones,84.48,13.77,Free Gift,Get 10% off,43,2964,West,Online,BU218,DistributionCenter
+196,22-06-2022,1001,iPhone 14 Pro,Smartphones,65.22,10.4,Free Gift,Get a free case,27,2241,East,In-store,BU203,DistributionCenter
+197,14-11-2022,8001,OnePlus 12,Smartphones,73.94,11.56,Bonus Buy,Free adapter,55,2563,East,In-store,BU207,DistributionCenter
+198,18-10-2023,4001,Google Pixel 7,Smartphones,75.9,12.56,Bonus Buy,Get 10% off on earbuds,52,2024,Central,Online,BU219,DistributionCenter
+199,07-06-2023,4001,Samsung S23,Smartphones,63.05,10.62,Discount,Free adapter,17,2924,North,Catalog,BU206,Retail Store
+200,29-08-2023,12001,HP Spectre,Laptops,82.7,12.72,Discount,Get a free laptop bag,38,2677,West,Catalog,BU219,DistributionCenter
+201,27-05-2022,13001,MacBook Pro,Laptops,71.82,14.32,Bonus Buy,Get 10% off,29,2775,West,Catalog,BU218,Retail Store
+202,11-03-2022,14001,MacBook Pro,Laptops,81.8,14.82,BOGOF,Free adapter,14,1545,West,Online,BU204,Retail Store
+203,18-07-2022,13001,Dell XPS,Laptops,67.94,13.82,Bonus Buy,Get 10% off,41,2766,North,In-store,BU210,Retail Store
+204,17-07-2022,13001,HP Spectre,Laptops,75.33,14.99,Free Gift,Get 10% off,28,2624,East,Catalog,BU218,DistributionCenter
+205,07-10-2022,14001,MacBook Pro,Laptops,64.74,11.69,BOGOF,Get 10% off on earbuds,53,1610,Central,In-store,BU214,DistributionCenter
+206,02-01-2023,12001,HP Spectre,Laptops,89.32,14.26,Discount,Free adapter,60,1810,West,Catalog,BU215,Retail Store
+207,06-06-2022,12001,Dell XPS,Laptops,72.81,11.57,BOGOF,Free adapter,57,1711,North,In-store,BU200,Retail Store
+208,07-05-2022,14001,Dell XPS,Laptops,78.26,10.13,Discount,Get a free laptop bag,52,2825,Central,Online,BU200,Retail Store
+209,19-07-2022,14001,Dell XPS,Laptops,80.25,11.69,BOGOF,Get 10% off on earbuds,33,1799,East,In-store,BU212,DistributionCenter
+210,21-07-2023,13001,HP Spectre,Laptops,68.28,10.82,Free Gift,Get 10% off on earbuds,41,2738,South,Online,BU213,DistributionCenter
+211,12-03-2022,11001,MacBook Pro,Laptops,70.69,14.1,Discount,Get a free laptop bag,28,2511,Central,In-store,BU204,DistributionCenter
+212,27-10-2023,13001,HP Spectre,Laptops,63.06,12.57,Free Gift,Get a free laptop bag,25,2282,North,Catalog,BU210,DistributionCenter
+213,20-10-2023,11001,Dell XPS,Laptops,65.54,13.61,BOGOF,Get 10% off on earbuds,38,1891,North,Online,BU212,Retail Store
+214,24-11-2023,12001,Lenovo ThinkPad,Laptops,85.12,11.56,Bonus Buy,Free adapter,50,2056,Central,In-store,BU212,DistributionCenter
+215,26-01-2022,14001,HP Spectre,Laptops,73.7,14.12,Bonus Buy,Get a free laptop bag,32,1809,North,Online,BU209,DistributionCenter
+216,03-12-2022,12001,HP Spectre,Laptops,77.6,11.68,Free Gift,Get 10% off on earbuds,29,2892,East,Online,BU219,Retail Store
+217,01-10-2022,12001,Lenovo ThinkPad,Laptops,80.33,11.31,BOGOF,Free adapter,42,2156,South,Online,BU202,Retail Store
+218,22-05-2022,11001,HP Spectre,Laptops,79.96,12.01,Free Gift,Get 10% off on earbuds,58,1856,South,Catalog,BU212,DistributionCenter
+219,09-06-2023,11001,HP Spectre,Laptops,62.9,12.53,Discount,Get 10% off,14,2696,South,In-store,BU204,DistributionCenter
+220,28-01-2022,12001,HP Spectre,Laptops,89.8,13.98,Free Gift,Get 10% off,43,2347,Central,Catalog,BU209,Retail Store
+221,16-08-2023,13001,MacBook Pro,Laptops,65.07,12.68,Free Gift,Free adapter,57,2423,Central,Catalog,BU205,Retail Store
+222,29-10-2023,12001,MacBook Pro,Laptops,69.59,13.43,Bonus Buy,Get a free laptop bag,28,2855,Central,Online,BU216,Retail Store
+223,13-06-2022,14001,Dell XPS,Laptops,65.39,13.45,Bonus Buy,Get 10% off,29,2090,Central,In-store,BU200,Retail Store
+224,25-01-2023,12001,Dell XPS,Laptops,73.56,11.22,Discount,Get 10% off on earbuds,18,1467,East,Online,BU206,Retail Store
+225,28-03-2022,12001,Dell XPS,Laptops,60.44,13.65,Bonus Buy,Get a free laptop bag,21,2257,East,Online,BU209,Retail Store
+226,16-03-2022,14001,HP Spectre,Laptops,70.01,14.8,Free Gift,Get 10% off on earbuds,31,1420,North,Catalog,BU218,Retail Store
+227,29-01-2022,14001,MacBook Pro,Laptops,74.53,14.06,Bonus Buy,Get 10% off,48,1240,Central,Catalog,BU206,Retail Store
+228,23-07-2022,14001,MacBook Pro,Laptops,85.8,13.28,Discount,Get 10% off,48,1597,Central,Catalog,BU213,DistributionCenter
+229,26-02-2023,12001,HP Spectre,Laptops,83.22,14.98,Bonus Buy,Get 10% off,28,1471,East,Online,BU200,Retail Store
+230,14-06-2022,14001,Dell XPS,Laptops,82.26,13.18,Discount,Get 10% off,33,2780,South,Catalog,BU204,Retail Store
+231,30-01-2022,12001,HP Spectre,Laptops,73.82,10.54,Discount,Free adapter,34,2690,North,Online,BU208,Retail Store
+232,05-08-2023,12001,Dell XPS,Laptops,80.12,10.53,Discount,Free adapter,14,1446,East,In-store,BU215,Retail Store
+233,23-06-2023,14001,Lenovo ThinkPad,Laptops,76.43,12.98,Bonus Buy,Free adapter,23,2899,North,Catalog,BU215,DistributionCenter
+234,03-11-2023,11001,MacBook Pro,Laptops,69.51,11.3,Discount,Get 10% off,20,2222,East,In-store,BU207,DistributionCenter
+235,24-07-2022,12001,HP Spectre,Laptops,86.64,12.45,Bonus Buy,Get 10% off,30,1645,South,Catalog,BU202,Retail Store
+236,06-03-2023,12001,Lenovo ThinkPad,Laptops,63.64,11.22,Free Gift,Get 10% off,22,1893,East,Catalog,BU208,Retail Store
+237,13-09-2022,12001,MacBook Pro,Laptops,62.82,10.59,Free Gift,Get 10% off on earbuds,15,2480,East,Online,BU218,DistributionCenter
+238,23-05-2023,14001,HP Spectre,Laptops,66.73,10.29,Free Gift,Get 10% off,12,1995,South,Catalog,BU200,DistributionCenter
+239,29-10-2022,13001,HP Spectre,Laptops,67.35,11.04,Discount,Get 10% off on earbuds,37,2383,South,Catalog,BU217,Retail Store
+240,16-01-2022,13001,HP Spectre,Laptops,65.07,14.16,Discount,Free adapter,48,1704,South,In-store,BU205,Retail Store
+241,24-12-2022,11001,HP Spectre,Laptops,60.41,11.79,Bonus Buy,Get 10% off,60,2343,West,Online,BU218,DistributionCenter
+242,27-07-2022,13001,Lenovo ThinkPad,Laptops,82.27,10.64,Discount,Free adapter,14,2210,East,In-store,BU215,DistributionCenter
+243,31-03-2022,11001,Dell XPS,Laptops,62.05,13.93,Free Gift,Get a free laptop bag,42,1273,East,In-store,BU200,DistributionCenter
+244,28-09-2022,14001,Dell XPS,Laptops,69.59,14.6,Free Gift,Get 10% off,25,1552,South,Catalog,BU212,Retail Store
+245,28-12-2023,13001,Lenovo ThinkPad,Laptops,67.05,10.37,Discount,Get 10% off on earbuds,37,2378,South,Catalog,BU210,DistributionCenter
+246,13-10-2023,12001,HP Spectre,Laptops,63.31,14.84,BOGOF,Free adapter,21,2336,South,Online,BU200,DistributionCenter
+247,16-10-2022,11001,HP Spectre,Laptops,78.51,14.03,Free Gift,Get 10% off on earbuds,18,2704,North,In-store,BU212,Retail Store
+248,16-09-2022,13001,HP Spectre,Laptops,70.97,13.9,Discount,Get 10% off on earbuds,21,1353,North,In-store,BU219,DistributionCenter
+249,09-07-2023,12001,MacBook Pro,Laptops,64.51,12,Bonus Buy,Get 10% off on earbuds,56,2084,Central,Catalog,BU213,DistributionCenter
+250,25-04-2022,12001,Lenovo ThinkPad,Laptops,67.34,14.83,Bonus Buy,Free adapter,58,1724,West,In-store,BU201,DistributionCenter
+251,31-03-2023,12001,Dell XPS,Laptops,64.13,11.84,Bonus Buy,Get 10% off on earbuds,56,1349,Central,In-store,BU204,Retail Store
+252,30-09-2022,11001,Lenovo ThinkPad,Laptops,61.95,11.21,Bonus Buy,Get a free laptop bag,22,1920,East,Catalog,BU211,Retail Store
+253,28-05-2022,11001,Dell XPS,Laptops,73.9,13.78,Discount,Free adapter,14,2727,East,Catalog,BU218,DistributionCenter
+254,17-12-2023,14001,HP Spectre,Laptops,76.69,10.7,Discount,Get 10% off on earbuds,49,2758,North,Online,BU207,Retail Store
+255,06-05-2022,13001,HP Spectre,Laptops,69.45,11.44,BOGOF,Get 10% off,45,2332,Central,Online,BU200,Retail Store
+256,06-09-2022,11001,Dell XPS,Laptops,86.53,13,Discount,Get 10% off on earbuds,17,2160,West,Catalog,BU219,Retail Store
+257,10-05-2023,13001,Lenovo ThinkPad,Laptops,69.73,14.84,Bonus Buy,Free adapter,23,1558,North,Catalog,BU206,Retail Store
+258,06-04-2023,12001,MacBook Pro,Laptops,61.1,14.37,Bonus Buy,Get a free laptop bag,60,2508,North,In-store,BU215,Retail Store
+259,15-03-2023,13001,Dell XPS,Laptops,73.27,13.83,Discount,Free adapter,52,1917,South,Online,BU219,DistributionCenter
+260,04-10-2023,12001,MacBook Pro,Laptops,74.37,12.86,Free Gift,Get 10% off on earbuds,18,1613,South,Catalog,BU217,Retail Store
+261,18-08-2023,11001,HP Spectre,Laptops,74.68,10.24,Discount,Get 10% off on earbuds,58,1437,West,Catalog,BU216,DistributionCenter
+262,13-08-2023,11001,Dell XPS,Laptops,83.73,11.08,Discount,Get 10% off,11,1543,Central,Catalog,BU201,Retail Store
+263,02-07-2022,13001,Dell XPS,Laptops,87.18,10.22,Bonus Buy,Free adapter,53,1367,West,Catalog,BU216,DistributionCenter
+264,22-03-2022,11001,Lenovo ThinkPad,Laptops,83.34,12.98,BOGOF,Get 10% off,55,2638,South,In-store,BU201,DistributionCenter
+265,21-05-2022,13001,Dell XPS,Laptops,81.63,10.37,BOGOF,Free adapter,56,2900,South,In-store,BU216,Retail Store
+266,19-11-2022,14001,MacBook Pro,Laptops,76.51,13.01,Bonus Buy,Free adapter,18,1250,West,Online,BU201,DistributionCenter
+267,29-05-2022,12001,HP Spectre,Laptops,62.09,14.94,Discount,Get a free laptop bag,11,1795,North,Catalog,BU201,DistributionCenter
+268,07-07-2023,11001,Dell XPS,Laptops,64.28,14.29,Discount,Get 10% off,19,1762,Central,In-store,BU201,DistributionCenter
+269,18-08-2022,11001,Dell XPS,Laptops,84.08,10.34,BOGOF,Free adapter,49,2474,East,Catalog,BU216,Retail Store
+270,11-01-2022,14001,Lenovo ThinkPad,Laptops,61.34,13.14,Free Gift,Get 10% off on earbuds,39,2599,South,In-store,BU201,Retail Store
+271,27-11-2022,13001,Lenovo ThinkPad,Laptops,72.71,13.41,Discount,Free adapter,34,1600,East,Catalog,BU218,Retail Store
+272,03-01-2023,11001,MacBook Pro,Laptops,89.3,14.26,Bonus Buy,Free adapter,45,1267,North,In-store,BU207,DistributionCenter
+273,04-04-2023,11001,Dell XPS,Laptops,73.02,12.88,Bonus Buy,Get 10% off on earbuds,35,1953,Central,Catalog,BU216,Retail Store
+274,25-10-2023,13001,Lenovo ThinkPad,Laptops,70.66,10.76,Free Gift,Get 10% off on earbuds,41,2071,North,Online,BU219,DistributionCenter
+275,10-05-2022,14001,Dell XPS,Laptops,75.83,14.06,Bonus Buy,Get 10% off,50,2162,North,Online,BU212,Retail Store
+276,19-11-2023,14001,HP Spectre,Laptops,68.57,14.3,Free Gift,Free adapter,58,1949,North,Online,BU203,Retail Store
+277,22-08-2023,11001,HP Spectre,Laptops,85.35,12.94,Discount,Get 10% off,52,2267,West,Catalog,BU213,Retail Store
+278,01-09-2022,13001,HP Spectre,Laptops,77.73,11.65,Discount,Get 10% off on earbuds,48,2837,North,Catalog,BU213,DistributionCenter
+279,22-12-2022,14001,HP Spectre,Laptops,72.41,10.6,Bonus Buy,Get 10% off,50,1410,North,In-store,BU202,Retail Store
+280,30-07-2022,13001,Dell XPS,Laptops,83.41,12.34,Bonus Buy,Get 10% off on earbuds,16,2765,South,Catalog,BU208,Retail Store
+281,05-09-2022,11001,Dell XPS,Laptops,89.76,10.46,Bonus Buy,Get 10% off,19,1945,North,In-store,BU200,Retail Store
+282,30-07-2022,13001,Lenovo ThinkPad,Laptops,82.2,10.15,BOGOF,Get 10% off,21,2320,Central,Catalog,BU217,DistributionCenter
+283,15-11-2023,11001,MacBook Pro,Laptops,69.88,10.99,BOGOF,Get a free laptop bag,57,1725,South,In-store,BU209,Retail Store
+284,10-12-2023,13001,Dell XPS,Laptops,88.57,12.65,Free Gift,Get a free laptop bag,55,1440,East,In-store,BU205,Retail Store
+285,16-11-2023,13001,MacBook Pro,Laptops,79.49,12.2,Free Gift,Free adapter,46,1664,South,In-store,BU215,Retail Store
+286,06-09-2023,12001,MacBook Pro,Laptops,81.44,10.57,Free Gift,Get 10% off,32,1491,South,Online,BU203,Retail Store
+287,04-09-2022,11001,Lenovo ThinkPad,Laptops,66.23,14.55,BOGOF,Get a free laptop bag,10,2243,East,Online,BU212,Retail Store
+288,12-12-2023,14001,Dell XPS,Laptops,88.38,11.79,Free Gift,Get 10% off on earbuds,59,2409,West,In-store,BU215,Retail Store
+289,25-12-2023,13001,Lenovo ThinkPad,Laptops,83.15,13.56,BOGOF,Get 10% off,43,1701,West,Catalog,BU211,DistributionCenter
+290,26-11-2022,14001,HP Spectre,Laptops,74.24,10.27,Discount,Get 10% off on earbuds,29,1889,West,Catalog,BU219,DistributionCenter
+291,21-10-2022,13001,Dell XPS,Laptops,67.18,14.04,Free Gift,Get a free laptop bag,36,1953,North,Online,BU202,DistributionCenter
+292,11-04-2023,14001,HP Spectre,Laptops,72.84,11.74,BOGOF,Get a free laptop bag,17,2707,North,In-store,BU213,DistributionCenter
+293,11-11-2023,13001,HP Spectre,Laptops,75.67,13.46,Bonus Buy,Get 10% off on earbuds,22,1248,South,Online,BU201,Retail Store
+294,09-03-2023,13001,Lenovo ThinkPad,Laptops,67.35,10.34,Discount,Get 10% off,59,2579,East,In-store,BU217,Retail Store
+295,09-07-2022,12001,Lenovo ThinkPad,Laptops,81.68,13.25,Discount,Get 10% off on earbuds,48,1513,North,Online,BU207,DistributionCenter
+296,29-11-2022,12001,HP Spectre,Laptops,86.24,13.46,Free Gift,Get 10% off on earbuds,23,2910,West,Online,BU202,DistributionCenter
+297,01-12-2022,12001,Lenovo ThinkPad,Laptops,62.21,11.45,BOGOF,Get a free laptop bag,12,2306,North,Catalog,BU216,Retail Store
+298,20-10-2022,14001,Lenovo ThinkPad,Laptops,88.99,13.36,Bonus Buy,Get a free laptop bag,45,2109,South,Online,BU214,DistributionCenter
+299,14-03-2022,13001,Dell XPS,Laptops,61.82,12.47,Discount,Free adapter,29,2181,North,In-store,BU219,DistributionCenter
+300,27-03-2023,11001,Lenovo ThinkPad,Laptops,86.91,12.86,Discount,Get 10% off on earbuds,58,1270,North,In-store,BU212,DistributionCenter
+301,04-12-2022,14001,HP Spectre,Laptops,78.56,13.69,Discount,Get 10% off,57,2819,North,Catalog,BU205,Retail Store
+302,02-01-2022,11001,HP Spectre,Laptops,80.42,12.43,Bonus Buy,Free adapter,42,2407,Central,Online,BU200,Retail Store
+303,19-06-2022,14001,MacBook Pro,Laptops,83.27,11.7,Bonus Buy,Get 10% off,56,2446,West,In-store,BU212,Retail Store
+304,12-11-2023,11001,MacBook Pro,Laptops,67.76,12.98,Free Gift,Free adapter,30,2732,South,Catalog,BU218,DistributionCenter
+305,06-06-2023,12001,HP Spectre,Laptops,78.35,10.49,Bonus Buy,Get 10% off,17,2367,West,Online,BU213,Retail Store
+306,23-10-2022,12001,Lenovo ThinkPad,Laptops,64.24,11.86,Discount,Free adapter,37,2500,East,In-store,BU219,DistributionCenter
+307,14-05-2022,14001,Lenovo ThinkPad,Laptops,89.97,13.69,BOGOF,Free adapter,28,1681,East,Catalog,BU213,DistributionCenter
+308,22-03-2023,12001,HP Spectre,Laptops,70.08,14.74,Free Gift,Get a free laptop bag,55,1276,East,Catalog,BU216,Retail Store
+309,10-01-2023,13001,Lenovo ThinkPad,Laptops,80.16,14.27,BOGOF,Get a free laptop bag,11,1928,West,Catalog,BU202,DistributionCenter
+310,24-12-2023,13001,Dell XPS,Laptops,84.54,13.79,Free Gift,Free adapter,20,2157,North,In-store,BU209,Retail Store
+311,30-06-2023,14001,Dell XPS,Laptops,75.64,10.29,Discount,Free adapter,56,1287,West,Catalog,BU203,Retail Store
+312,06-03-2023,13001,HP Spectre,Laptops,71.8,14.67,BOGOF,Get 10% off,53,1369,South,In-store,BU209,Retail Store
+313,16-10-2023,14001,MacBook Pro,Laptops,83.01,13.83,BOGOF,Free adapter,39,1874,North,Online,BU200,DistributionCenter
+314,08-12-2022,13001,Lenovo ThinkPad,Laptops,73.91,14.2,Bonus Buy,Free adapter,18,2154,South,In-store,BU203,Retail Store
+315,11-08-2023,12001,HP Spectre,Laptops,67.11,12.63,Free Gift,Get 10% off on earbuds,59,1520,North,In-store,BU213,Retail Store
+316,27-04-2022,14001,MacBook Pro,Laptops,73.61,14.42,Bonus Buy,Get 10% off on earbuds,36,1542,South,In-store,BU204,DistributionCenter
+317,21-05-2023,12001,MacBook Pro,Laptops,84.07,14.29,Bonus Buy,Get 10% off on earbuds,29,1623,Central,Online,BU204,DistributionCenter
+318,09-09-2022,13001,Dell XPS,Laptops,67.43,10.65,BOGOF,Get 10% off,50,1437,West,Online,BU209,DistributionCenter
+319,15-08-2023,11001,HP Spectre,Laptops,86.18,11.6,BOGOF,Free adapter,55,2196,North,Catalog,BU219,DistributionCenter
+320,13-07-2023,12001,Dell XPS,Laptops,78.29,11.48,Bonus Buy,Get 10% off,14,1249,East,In-store,BU204,DistributionCenter
+321,09-08-2022,11001,Lenovo ThinkPad,Laptops,63.35,11.47,Discount,Free adapter,44,1552,North,Online,BU203,Retail Store
+322,08-04-2022,14001,Lenovo ThinkPad,Laptops,87.05,10.68,Free Gift,Get 10% off,30,1358,North,In-store,BU204,Retail Store
+323,04-04-2022,13001,MacBook Pro,Laptops,69.78,14.22,Bonus Buy,Get 10% off on earbuds,16,1952,Central,In-store,BU201,Retail Store
+324,23-10-2022,13001,Dell XPS,Laptops,65.02,11.71,BOGOF,Get 10% off,14,1276,North,In-store,BU213,Retail Store
+325,26-04-2022,14001,Dell XPS,Laptops,78.62,12.9,Discount,Get a free laptop bag,46,1309,Central,Catalog,BU202,DistributionCenter
+326,25-03-2023,11001,HP Spectre,Laptops,62.54,13.02,Free Gift,Free adapter,23,2163,West,Online,BU205,DistributionCenter
+327,05-01-2022,14001,MacBook Pro,Laptops,81.12,13.3,Bonus Buy,Get 10% off on earbuds,21,2643,North,In-store,BU204,DistributionCenter
+328,16-06-2022,11001,Dell XPS,Laptops,66.02,11.78,BOGOF,Get 10% off on earbuds,38,2987,Central,Online,BU219,Retail Store
+329,19-08-2023,14001,Dell XPS,Laptops,60.36,12.78,Discount,Get 10% off,57,1635,East,Online,BU210,Retail Store
+330,01-10-2023,12001,Dell XPS,Laptops,71.95,11.81,BOGOF,Get a free laptop bag,52,1926,Central,In-store,BU218,DistributionCenter
+331,12-11-2023,14001,MacBook Pro,Laptops,79.24,13.52,BOGOF,Get 10% off,49,1928,North,Catalog,BU209,Retail Store
+332,05-08-2022,12001,MacBook Pro,Laptops,89.36,10.9,Free Gift,Get 10% off,57,1609,West,In-store,BU200,DistributionCenter
+333,16-02-2023,11001,HP Spectre,Laptops,68.96,14.54,Bonus Buy,Free adapter,22,1953,West,Online,BU205,DistributionCenter
+334,28-01-2022,14001,HP Spectre,Laptops,64.36,10.31,Discount,Get 10% off,22,2765,Central,Online,BU212,Retail Store
+335,07-03-2022,12001,Dell XPS,Laptops,85.62,10.27,Free Gift,Get a free laptop bag,51,1273,North,In-store,BU215,Retail Store
+336,10-04-2023,14001,HP Spectre,Laptops,79.56,13.51,Free Gift,Get a free laptop bag,40,2619,North,In-store,BU219,DistributionCenter
+337,08-03-2022,14001,HP Spectre,Laptops,75.77,10.56,Bonus Buy,Free adapter,49,2731,West,Catalog,BU211,Retail Store
+338,09-08-2023,12001,MacBook Pro,Laptops,83.36,14.52,BOGOF,Get a free laptop bag,28,1624,South,Online,BU204,DistributionCenter
+339,15-10-2022,14001,MacBook Pro,Laptops,64.05,12.82,Bonus Buy,Get 10% off,47,2900,South,Catalog,BU207,Retail Store
+340,25-07-2023,14001,MacBook Pro,Laptops,79.78,14.83,BOGOF,Get 10% off,28,1432,South,Catalog,BU201,Retail Store
+341,26-10-2022,11001,Lenovo ThinkPad,Laptops,60.7,10.94,Bonus Buy,Get a free laptop bag,56,1812,East,Catalog,BU209,Retail Store
+342,06-02-2023,12001,MacBook Pro,Laptops,65.65,14.27,BOGOF,Free adapter,31,2663,East,Online,BU218,Retail Store
+343,13-12-2023,11001,HP Spectre,Laptops,69.59,11.9,Free Gift,Get a free laptop bag,15,2969,South,In-store,BU210,DistributionCenter
+344,13-07-2023,11001,MacBook Pro,Laptops,80.69,14.03,BOGOF,Free adapter,52,1357,Central,In-store,BU219,DistributionCenter
+345,08-01-2023,14001,MacBook Pro,Laptops,72.24,11.77,Free Gift,Free adapter,33,2958,Central,Catalog,BU219,DistributionCenter
+346,12-11-2023,14001,HP Spectre,Laptops,79.1,12.32,Discount,Get 10% off,23,2648,East,In-store,BU203,Retail Store
+347,20-07-2023,11001,MacBook Pro,Laptops,71.75,13.41,Free Gift,Get 10% off,37,2189,Central,In-store,BU201,DistributionCenter
+348,05-07-2022,12001,HP Spectre,Laptops,87.75,11.41,Bonus Buy,Get 10% off on earbuds,34,2330,West,Catalog,BU209,Retail Store
+349,16-10-2023,13001,MacBook Pro,Laptops,65.09,11,BOGOF,Get a free laptop bag,50,2107,West,Online,BU212,Retail Store
+350,02-11-2023,12001,Lenovo ThinkPad,Laptops,75.13,14.74,Free Gift,Get 10% off,13,1771,West,In-store,BU201,Retail Store
+351,04-05-2022,13001,Lenovo ThinkPad,Laptops,73.3,11.05,Bonus Buy,Free adapter,48,2829,South,In-store,BU203,Retail Store
+352,11-12-2022,11001,HP Spectre,Laptops,88.35,10.65,Discount,Free adapter,14,2161,West,In-store,BU201,DistributionCenter
+353,18-09-2022,13001,MacBook Pro,Laptops,60.69,11.29,Bonus Buy,Free adapter,54,1530,Central,In-store,BU211,DistributionCenter
+354,27-12-2022,14001,Lenovo ThinkPad,Laptops,64.82,11.45,Discount,Get a free laptop bag,18,1577,North,Catalog,BU207,DistributionCenter
+355,29-12-2022,13001,MacBook Pro,Laptops,64.42,13.36,Free Gift,Get 10% off,58,2604,West,Online,BU209,Retail Store
+356,22-10-2023,11001,MacBook Pro,Laptops,87.94,12.59,Discount,Get 10% off,59,1926,Central,In-store,BU203,Retail Store
+357,02-03-2022,14001,HP Spectre,Laptops,73.25,13.12,BOGOF,Get a free laptop bag,55,2727,West,Online,BU214,Retail Store
+358,03-04-2022,14001,MacBook Pro,Laptops,66.21,14.28,BOGOF,Get 10% off,11,2995,South,Online,BU203,DistributionCenter
+359,22-03-2022,14001,HP Spectre,Laptops,67.55,13.38,Discount,Get 10% off on earbuds,41,2216,Central,In-store,BU211,Retail Store
+360,08-02-2022,13001,Dell XPS,Laptops,70.19,13.82,Free Gift,Free adapter,24,1252,South,Catalog,BU200,DistributionCenter
+361,02-09-2022,11001,Lenovo ThinkPad,Laptops,85.98,10.05,Bonus Buy,Free adapter,38,1422,North,Catalog,BU216,Retail Store
+362,23-01-2022,12001,Dell XPS,Laptops,74.88,10.51,Bonus Buy,Get a free laptop bag,44,1444,Central,Online,BU212,DistributionCenter
+363,21-01-2023,14001,MacBook Pro,Laptops,71.7,11.67,Bonus Buy,Get 10% off on earbuds,35,1697,Central,In-store,BU218,DistributionCenter
+364,15-12-2023,14001,Dell XPS,Laptops,66.46,13.29,Discount,Get 10% off on earbuds,48,1489,East,Online,BU219,Retail Store
+365,27-06-2022,12001,MacBook Pro,Laptops,63.26,14.93,Free Gift,Get 10% off on earbuds,15,2708,East,In-store,BU218,Retail Store
+366,07-01-2023,12001,Lenovo ThinkPad,Laptops,84.63,12.04,Discount,Get a free laptop bag,40,2676,West,Catalog,BU218,Retail Store
+367,08-01-2022,11001,Lenovo ThinkPad,Laptops,77.83,10.82,Free Gift,Get 10% off on earbuds,58,2774,Central,Online,BU202,Retail Store
+368,05-02-2022,14001,Lenovo ThinkPad,Laptops,84.5,11.07,Free Gift,Get 10% off,14,2151,West,Online,BU207,DistributionCenter
+369,27-07-2023,13001,Dell XPS,Laptops,82.97,10.24,Discount,Get a free laptop bag,33,2892,South,In-store,BU202,Retail Store
+370,27-06-2023,14001,Dell XPS,Laptops,79.91,12.83,Discount,Free adapter,56,2175,Central,In-store,BU214,DistributionCenter
+371,14-09-2023,11001,Dell XPS,Laptops,84.91,12.06,BOGOF,Get 10% off on earbuds,44,1726,East,Catalog,BU219,Retail Store
+372,22-09-2023,12001,HP Spectre,Laptops,86.53,13.97,Bonus Buy,Get 10% off,39,2146,South,Catalog,BU213,DistributionCenter
+373,19-11-2022,11001,Lenovo ThinkPad,Laptops,75.22,12.75,Free Gift,Free adapter,20,2515,South,Online,BU207,DistributionCenter
+374,29-08-2022,14001,Dell XPS,Laptops,77.6,13.55,Free Gift,Get 10% off on earbuds,25,2563,Central,Online,BU201,Retail Store
+375,21-02-2023,12001,Lenovo ThinkPad,Laptops,84.9,10.13,Free Gift,Get 10% off on earbuds,47,1313,East,Online,BU214,Retail Store
+376,04-03-2023,11001,Dell XPS,Laptops,67.8,10.51,Discount,Get a free laptop bag,46,1577,West,In-store,BU211,Retail Store
+377,20-11-2022,14001,Lenovo ThinkPad,Laptops,81.13,11.91,BOGOF,Get a free laptop bag,18,2367,Central,Catalog,BU214,DistributionCenter
+378,30-09-2022,14001,Lenovo ThinkPad,Laptops,67.51,12.67,Discount,Get a free laptop bag,60,1372,South,In-store,BU214,Retail Store
+379,03-06-2022,11001,Lenovo ThinkPad,Laptops,80.35,12.01,BOGOF,Get 10% off on earbuds,18,2207,East,In-store,BU202,Retail Store
+380,20-09-2023,11001,Lenovo ThinkPad,Laptops,84.55,11.42,Discount,Get 10% off on earbuds,41,2308,Central,Catalog,BU205,DistributionCenter
+381,15-05-2022,12001,Lenovo ThinkPad,Laptops,72.32,10.1,Free Gift,Free adapter,21,1643,East,Catalog,BU207,Retail Store
+382,08-03-2023,12001,HP Spectre,Laptops,74.3,13.95,BOGOF,Free adapter,17,2122,South,Online,BU218,Retail Store
+383,14-09-2023,14001,Lenovo ThinkPad,Laptops,75.32,14.7,BOGOF,Get 10% off on earbuds,56,1899,South,In-store,BU205,DistributionCenter
+384,08-03-2023,14001,Dell XPS,Laptops,75.52,14.34,Bonus Buy,Get 10% off on earbuds,30,2946,North,Online,BU202,DistributionCenter
+385,13-01-2023,11001,Lenovo ThinkPad,Laptops,66.01,14.73,Free Gift,Get 10% off,41,1754,South,Catalog,BU210,DistributionCenter
+386,08-08-2023,12001,MacBook Pro,Laptops,87.19,14.69,Discount,Free adapter,17,1208,North,In-store,BU203,Retail Store
+387,14-09-2023,11001,MacBook Pro,Laptops,69.28,14.14,BOGOF,Get 10% off on earbuds,42,1408,Central,In-store,BU200,Retail Store
+388,31-05-2023,14001,Lenovo ThinkPad,Laptops,71.32,10.57,BOGOF,Free adapter,16,2099,Central,Catalog,BU219,Retail Store
+389,18-09-2022,12001,HP Spectre,Laptops,86.95,12.91,Bonus Buy,Get 10% off,50,1563,East,Online,BU212,DistributionCenter
+390,21-11-2023,12001,Dell XPS,Laptops,73.62,14.48,BOGOF,Get a free laptop bag,14,2436,East,In-store,BU219,DistributionCenter
+391,07-07-2022,11001,MacBook Pro,Laptops,79.98,14.43,Discount,Get 10% off,31,1994,North,Catalog,BU200,Retail Store
+392,26-11-2023,11001,HP Spectre,Laptops,71.33,14.93,BOGOF,Get 10% off on earbuds,15,2671,East,Online,BU214,Retail Store
+393,13-01-2023,11001,Dell XPS,Laptops,63.49,11.91,BOGOF,Get 10% off on earbuds,56,2467,West,Online,BU201,Retail Store
+394,05-03-2023,12001,Lenovo ThinkPad,Laptops,67.93,14.03,Free Gift,Get 10% off on earbuds,20,1913,Central,In-store,BU216,DistributionCenter
+395,09-08-2023,11001,HP Spectre,Laptops,76.66,13.27,Discount,Get 10% off,41,1884,South,In-store,BU211,DistributionCenter
+396,16-04-2023,14001,MacBook Pro,Laptops,86.96,12.1,Bonus Buy,Get a free laptop bag,39,1351,South,Online,BU200,Retail Store
+397,20-05-2023,14001,Lenovo ThinkPad,Laptops,74.49,14.41,Free Gift,Get 10% off,49,1570,East,Online,BU205,DistributionCenter
+398,09-06-2023,12001,HP Spectre,Laptops,84.61,11.86,Free Gift,Get 10% off,45,2738,North,In-store,BU208,DistributionCenter
+399,03-07-2022,13001,Lenovo ThinkPad,Laptops,73.59,11.29,Bonus Buy,Get 10% off,22,1853,West,In-store,BU202,Retail Store
+400,05-01-2023,15001,Lenovo Tab,Tablets,86.63,12.27,Discount,Get 15% off,51,2626,West,In-store,BU204,Retail Store
+401,16-12-2022,16001,iPad Pro,Tablets,68.16,13.8,Bonus Buy,Get 15% off on earbuds,14,1702,North,Catalog,BU208,DistributionCenter
+402,04-04-2023,16001,Lenovo Tab,Tablets,72.98,14.95,Bonus Buy,Get 15% off on earbuds,44,2853,Central,Online,BU214,Retail Store
+403,21-10-2022,16001,Microsoft Surface Pro,Tablets,79.69,11.56,Bonus Buy,Get 15% off,52,2358,North,Online,BU208,Retail Store
+404,07-06-2022,15001,Samsung Galaxy Tab,Tablets,65.14,10.99,Bonus Buy,Get 15% off,25,1780,East,Online,BU215,DistributionCenter
+405,04-10-2022,18001,Microsoft Surface Pro,Tablets,87.06,12.14,Bonus Buy,Free charger,29,2873,East,In-store,BU216,Retail Store
+406,20-03-2022,18001,Samsung Galaxy Tab,Tablets,80.9,13.83,Bonus Buy,Free charger,22,2647,South,Online,BU207,Retail Store
+407,10-12-2022,15001,iPad Pro,Tablets,85.31,10.46,Free Gift,Free charger,16,2464,West,In-store,BU208,DistributionCenter
+408,01-09-2023,18001,Microsoft Surface Pro,Tablets,62.76,13,BOGOF,Free charger,54,1406,West,In-store,BU211,Retail Store
+409,06-03-2022,17001,Samsung Galaxy Tab,Tablets,67.71,13.88,Free Gift,Free charger,27,1685,South,Catalog,BU218,Retail Store
+410,20-03-2023,15001,Lenovo Tab,Tablets,82.4,11.33,Bonus Buy,Get 15% off on earbuds,60,2494,East,In-store,BU207,DistributionCenter
+411,21-08-2023,17001,Samsung Galaxy Tab,Tablets,74.49,14.04,Discount,Get 15% off on earbuds,40,1222,Central,Catalog,BU206,Retail Store
+412,07-03-2023,18001,Samsung Galaxy Tab,Tablets,73.85,14.87,Bonus Buy,Free charger,60,2501,South,Catalog,BU202,Retail Store
+413,23-03-2023,15001,Lenovo Tab,Tablets,60.17,13.33,Bonus Buy,Get 15% off,60,2374,South,Online,BU201,DistributionCenter
+414,27-07-2022,18001,Samsung Galaxy Tab,Tablets,62.01,13.24,BOGOF,Get 15% off,36,2317,Central,Catalog,BU202,DistributionCenter
+415,01-11-2022,15001,Samsung Galaxy Tab,Tablets,85.7,14.04,Discount,Get 15% off on earbuds,38,1953,East,In-store,BU203,Retail Store
+416,17-12-2023,18001,Samsung Galaxy Tab,Tablets,86.67,14.89,Bonus Buy,Get 15% off on earbuds,57,2347,South,Online,BU201,Retail Store
+417,18-10-2023,16001,Samsung Galaxy Tab,Tablets,75.19,14.36,Discount,Free charger,53,2297,South,In-store,BU218,Retail Store
+418,14-02-2023,17001,Samsung Galaxy Tab,Tablets,82.98,11.87,BOGOF,Get 15% off on earbuds,28,1561,Central,Online,BU216,Retail Store
+419,17-09-2023,17001,Samsung Galaxy Tab,Tablets,64.74,11.03,Free Gift,Get 15% off on earbuds,59,2468,North,Catalog,BU206,DistributionCenter
+420,28-07-2022,16001,Lenovo Tab,Tablets,71.25,14.5,Discount,Free charger,32,1452,Central,In-store,BU208,Retail Store
+421,27-05-2023,17001,Samsung Galaxy Tab,Tablets,71.56,10.36,Bonus Buy,Get 15% off,19,1947,West,Catalog,BU210,Retail Store
+422,24-06-2022,17001,Microsoft Surface Pro,Tablets,62.25,10.86,BOGOF,Get 15% off,53,1482,West,Online,BU218,DistributionCenter
+423,12-10-2023,17001,Samsung Galaxy Tab,Tablets,65.29,10.09,Free Gift,Get 15% off,30,2112,North,In-store,BU218,DistributionCenter
+424,27-12-2023,18001,Samsung Galaxy Tab,Tablets,67.26,12.7,Discount,Get 15% off,20,1676,North,Catalog,BU209,Retail Store
+425,30-05-2022,15001,Microsoft Surface Pro,Tablets,82.58,11.56,BOGOF,Get 15% off on earbuds,21,2955,Central,Online,BU202,Retail Store
+426,25-12-2023,16001,Lenovo Tab,Tablets,70.43,13.76,Discount,Get 15% off,18,2851,North,In-store,BU200,Retail Store
+427,20-07-2023,15001,iPad Pro,Tablets,69.75,11.51,Free Gift,Get 15% off,37,2451,Central,Online,BU206,Retail Store
+428,05-04-2023,16001,Lenovo Tab,Tablets,76.53,11.27,Bonus Buy,Get 15% off,21,2902,North,Online,BU210,Retail Store
+429,24-10-2022,18001,Microsoft Surface Pro,Tablets,71.78,11.1,BOGOF,Get 15% off on earbuds,10,2602,North,Catalog,BU201,Retail Store
+430,09-02-2023,16001,Lenovo Tab,Tablets,73.07,14.22,Discount,Get 15% off,43,1498,West,In-store,BU204,DistributionCenter
+431,02-12-2022,17001,Samsung Galaxy Tab,Tablets,65.73,13.38,BOGOF,Get 15% off,10,2101,South,Catalog,BU208,DistributionCenter
+432,05-11-2023,15001,Samsung Galaxy Tab,Tablets,78.63,10.25,Discount,Get 15% off,42,2272,North,Online,BU216,DistributionCenter
+433,07-09-2023,15001,Microsoft Surface Pro,Tablets,77.58,10.51,BOGOF,Get 15% off on earbuds,53,1901,West,In-store,BU219,Retail Store
+434,01-12-2023,18001,Lenovo Tab,Tablets,88.48,10.42,Bonus Buy,Get 15% off,34,2680,West,In-store,BU205,DistributionCenter
+435,19-01-2023,15001,Samsung Galaxy Tab,Tablets,75.3,12.41,Bonus Buy,Free charger,11,1789,Central,Catalog,BU206,Retail Store
+436,18-01-2023,18001,Lenovo Tab,Tablets,84.21,11.68,Free Gift,Get 15% off,34,2097,West,Catalog,BU212,Retail Store
+437,26-04-2023,15001,iPad Pro,Tablets,76.89,11.26,Free Gift,Free charger,49,1941,South,Catalog,BU215,DistributionCenter
+438,08-07-2023,15001,Samsung Galaxy Tab,Tablets,80.01,13.4,BOGOF,Free charger,33,1675,North,In-store,BU215,DistributionCenter
+439,01-11-2023,18001,Lenovo Tab,Tablets,66.06,14.54,Bonus Buy,Get 15% off on earbuds,29,1268,West,Online,BU207,Retail Store
+440,17-07-2022,18001,Microsoft Surface Pro,Tablets,76.97,13.23,Bonus Buy,Get 15% off,25,1505,South,In-store,BU202,Retail Store
+441,10-02-2023,18001,Microsoft Surface Pro,Tablets,64.76,12.01,Bonus Buy,Get 15% off,29,2918,Central,Online,BU208,Retail Store
+442,24-12-2023,15001,iPad Pro,Tablets,71.23,11.56,BOGOF,Free charger,40,1328,Central,Online,BU219,DistributionCenter
+443,08-12-2023,16001,Samsung Galaxy Tab,Tablets,73.24,11.99,Free Gift,Get 15% off on earbuds,46,1489,East,In-store,BU200,Retail Store
+444,22-09-2023,18001,iPad Pro,Tablets,63.8,11.46,Free Gift,Free charger,51,1789,West,Catalog,BU207,Retail Store
+445,28-02-2023,16001,Microsoft Surface Pro,Tablets,77.41,13.44,BOGOF,Free charger,41,1900,East,In-store,BU214,Retail Store
+446,19-11-2023,18001,Microsoft Surface Pro,Tablets,88.4,14.47,BOGOF,Get 15% off on earbuds,12,2079,East,In-store,BU215,DistributionCenter
+447,03-02-2023,18001,Lenovo Tab,Tablets,88.72,14.08,Bonus Buy,Free charger,52,1396,South,Online,BU204,Retail Store
+448,03-04-2023,15001,Samsung Galaxy Tab,Tablets,71.32,11.51,Free Gift,Get 15% off,45,1994,West,Online,BU202,DistributionCenter
+449,22-09-2023,18001,Lenovo Tab,Tablets,61.49,11.4,BOGOF,Free charger,52,2680,North,Online,BU211,DistributionCenter
+450,31-12-2022,16001,iPad Pro,Tablets,79.86,11.16,BOGOF,Get 15% off,60,1886,East,In-store,BU213,DistributionCenter
+451,22-10-2023,17001,Lenovo Tab,Tablets,77.3,11.68,Discount,Get 15% off,10,1716,Central,In-store,BU204,DistributionCenter
+452,18-04-2022,18001,Samsung Galaxy Tab,Tablets,83.23,11.61,BOGOF,Free charger,33,1563,West,In-store,BU203,Retail Store
+453,17-01-2022,15001,Microsoft Surface Pro,Tablets,65.96,11.01,Free Gift,Get 15% off,42,2064,West,In-store,BU217,Retail Store
+454,20-07-2023,16001,iPad Pro,Tablets,67.54,12.71,Free Gift,Get 15% off on earbuds,58,1692,West,Catalog,BU204,DistributionCenter
+455,14-04-2023,17001,Samsung Galaxy Tab,Tablets,62.5,13.27,Bonus Buy,Get 15% off on earbuds,13,1304,North,In-store,BU216,Retail Store
+456,07-02-2023,18001,Lenovo Tab,Tablets,65.1,14.13,Bonus Buy,Get 15% off,34,2976,North,In-store,BU217,Retail Store
+457,16-08-2022,16001,Lenovo Tab,Tablets,61.4,11.35,BOGOF,Free charger,11,2771,South,Online,BU204,Retail Store
+458,12-02-2022,15001,Lenovo Tab,Tablets,60.2,13.51,Free Gift,Get 15% off on earbuds,36,2027,Central,In-store,BU202,DistributionCenter
+459,05-06-2023,17001,Microsoft Surface Pro,Tablets,80.48,13.67,Free Gift,Free charger,37,2820,Central,Online,BU217,Retail Store
+460,03-05-2023,15001,Microsoft Surface Pro,Tablets,87.3,13.09,Discount,Get 15% off on earbuds,41,2064,East,Online,BU214,Retail Store
+461,20-01-2022,16001,Lenovo Tab,Tablets,79.64,12.25,BOGOF,Get 15% off on earbuds,57,2716,West,In-store,BU210,Retail Store
+462,20-09-2023,15001,Microsoft Surface Pro,Tablets,83.6,12.36,Free Gift,Get 15% off,49,2107,East,Online,BU205,Retail Store
+463,09-07-2023,15001,Samsung Galaxy Tab,Tablets,73.52,10.98,Bonus Buy,Get 15% off on earbuds,21,1354,West,Online,BU212,Retail Store
+464,15-02-2022,16001,Samsung Galaxy Tab,Tablets,67.04,10.83,Free Gift,Get 15% off,32,2550,West,In-store,BU200,Retail Store
+465,04-04-2022,15001,Lenovo Tab,Tablets,73.09,10.38,BOGOF,Free charger,36,2326,South,In-store,BU213,Retail Store
+466,21-04-2022,16001,Samsung Galaxy Tab,Tablets,77.42,14.3,Free Gift,Get 15% off,54,1366,North,In-store,BU207,DistributionCenter
+467,26-07-2023,15001,Lenovo Tab,Tablets,68.84,11.24,Free Gift,Free charger,23,2479,South,In-store,BU205,Retail Store
+468,26-10-2023,15001,iPad Pro,Tablets,74.23,10.46,Bonus Buy,Free charger,50,2750,South,Catalog,BU207,DistributionCenter
+469,21-04-2022,18001,Samsung Galaxy Tab,Tablets,81.72,11.1,Discount,Free charger,53,1763,West,Catalog,BU209,DistributionCenter
+470,16-12-2022,18001,iPad Pro,Tablets,89.69,13.16,BOGOF,Get 15% off on earbuds,14,1904,East,In-store,BU207,Retail Store
+471,17-11-2023,18001,Lenovo Tab,Tablets,87.22,11.43,BOGOF,Free charger,34,1620,South,In-store,BU213,Retail Store
+472,26-04-2023,16001,Lenovo Tab,Tablets,60.18,13.77,Bonus Buy,Free charger,23,1915,West,In-store,BU204,Retail Store
+473,05-12-2022,17001,Microsoft Surface Pro,Tablets,64.75,12.86,Discount,Get 15% off on earbuds,51,2337,Central,Online,BU209,Retail Store
+474,02-09-2022,16001,Lenovo Tab,Tablets,67.82,11.31,Bonus Buy,Free charger,50,2708,North,In-store,BU214,Retail Store
+475,25-03-2023,17001,Lenovo Tab,Tablets,89.37,11.65,Bonus Buy,Get 15% off,42,1971,North,Catalog,BU206,DistributionCenter
+476,25-05-2022,17001,Samsung Galaxy Tab,Tablets,72.2,14.07,BOGOF,Get 15% off on earbuds,13,2471,West,Online,BU210,DistributionCenter
+477,06-07-2022,17001,Microsoft Surface Pro,Tablets,83.34,12.7,Discount,Get 15% off on earbuds,55,1388,West,In-store,BU215,DistributionCenter
+478,05-12-2022,17001,iPad Pro,Tablets,70.53,12.51,BOGOF,Get 15% off,15,2223,West,Online,BU202,DistributionCenter
+479,24-07-2023,15001,Lenovo Tab,Tablets,63.23,13.31,BOGOF,Free charger,40,2814,South,In-store,BU214,Retail Store
+480,01-06-2022,18001,Lenovo Tab,Tablets,71.37,11,BOGOF,Get 15% off on earbuds,34,2059,South,Catalog,BU219,Retail Store
+481,01-10-2022,18001,iPad Pro,Tablets,64.52,12.28,Bonus Buy,Free charger,54,2385,North,Catalog,BU208,Retail Store
+482,10-08-2023,16001,iPad Pro,Tablets,66.06,10.46,Bonus Buy,Get 15% off on earbuds,50,1258,South,Catalog,BU206,Retail Store
+483,18-01-2023,18001,Lenovo Tab,Tablets,66.63,14.58,Free Gift,Get 15% off on earbuds,16,1386,South,In-store,BU210,Retail Store
+484,02-05-2022,16001,Microsoft Surface Pro,Tablets,70.69,13.17,BOGOF,Free charger,18,2572,West,In-store,BU205,Retail Store
+485,07-02-2022,18001,Lenovo Tab,Tablets,77.69,12.9,Discount,Free charger,12,1843,North,Online,BU208,DistributionCenter
+486,20-01-2023,18001,Samsung Galaxy Tab,Tablets,76.36,10.27,Free Gift,Get 15% off on earbuds,15,2727,West,Catalog,BU219,DistributionCenter
+487,18-11-2023,16001,Samsung Galaxy Tab,Tablets,75.81,12.12,Free Gift,Get 15% off,32,2979,Central,Catalog,BU205,Retail Store
+488,21-01-2023,17001,Samsung Galaxy Tab,Tablets,74.04,15,Free Gift,Free charger,44,1568,North,Catalog,BU202,Retail Store
+489,14-12-2023,15001,Microsoft Surface Pro,Tablets,76.77,11.92,Discount,Get 15% off on earbuds,30,1302,Central,Online,BU208,Retail Store
+490,18-09-2023,16001,Samsung Galaxy Tab,Tablets,83.05,13.04,Discount,Get 15% off,53,1790,South,In-store,BU205,DistributionCenter
+491,21-12-2022,18001,iPad Pro,Tablets,79.24,13.57,BOGOF,Free charger,23,2586,West,Catalog,BU206,Retail Store
+492,14-05-2022,16001,Samsung Galaxy Tab,Tablets,61.68,10.32,Bonus Buy,Free charger,38,1579,East,Catalog,BU208,DistributionCenter
+493,26-06-2022,18001,Lenovo Tab,Tablets,74.35,14.48,Bonus Buy,Get 15% off,55,2065,East,Online,BU214,DistributionCenter
+494,11-06-2023,15001,iPad Pro,Tablets,87.77,12.52,BOGOF,Free charger,15,1985,North,Catalog,BU200,Retail Store
+495,20-11-2022,17001,iPad Pro,Tablets,89.93,14.61,Free Gift,Get 15% off,58,1364,North,In-store,BU200,Retail Store
+496,13-11-2023,15001,iPad Pro,Tablets,87.5,12.71,Discount,Get 15% off,54,2461,North,Online,BU214,Retail Store
+497,07-06-2023,15001,Lenovo Tab,Tablets,87.47,12.03,Discount,Get 15% off,55,2490,Central,Online,BU202,DistributionCenter
+498,11-05-2023,15001,Samsung Galaxy Tab,Tablets,72.06,13.97,BOGOF,Get 15% off on earbuds,59,1541,Central,Catalog,BU209,Retail Store
+499,16-05-2023,18001,Samsung Galaxy Tab,Tablets,64.63,14.76,Free Gift,Get 15% off on earbuds,19,2616,Central,Online,BU208,DistributionCenter
+500,26-09-2023,20001,Fitbit Versa,Smart Watches,15.97,5.26,Bonus Buy,Free subscription,32,1721,North,Online,BU203,DistributionCenter
+501,18-02-2023,20001,Samsung Galaxy Watch,Smart Watches,20.35,8.7,Free Gift,Free subscription,19,2493,North,Catalog,BU215,Retail Store
+502,24-11-2022,21001,Apple Watch,Smart Watches,14.45,7.74,BOGOF,Get 5% off on earbuds,44,1998,South,Online,BU219,Retail Store
+503,03-03-2023,19001,Fitbit Versa,Smart Watches,19.36,9.61,Bonus Buy,Get 5% off on earbuds,33,2671,West,Online,BU211,DistributionCenter
+504,08-05-2023,19001,Apple Watch,Smart Watches,13.62,7.28,Free Gift,Get 5% off,28,1340,South,Online,BU201,DistributionCenter
+505,07-10-2023,20001,Fitbit Versa,Smart Watches,15.83,6.22,BOGOF,Get 5% off on earbuds,57,2720,South,Catalog,BU208,DistributionCenter
+506,29-09-2023,19001,Samsung Galaxy Watch,Smart Watches,15.3,7.16,Free Gift,Get 5% off,11,2473,South,Online,BU213,DistributionCenter
+507,09-02-2022,19001,Fitbit Versa,Smart Watches,18.8,7.67,Free Gift,Free subscription,58,2017,South,Online,BU219,Retail Store
+508,09-05-2023,21001,Fitbit Versa,Smart Watches,24.18,8.73,BOGOF,Free subscription,50,2214,Central,In-store,BU219,Retail Store
+509,08-03-2023,19001,Samsung Galaxy Watch,Smart Watches,16.5,5.94,Free Gift,Get 5% off,31,2887,South,Online,BU209,DistributionCenter
+510,01-02-2022,21001,Samsung Galaxy Watch,Smart Watches,17.1,9.4,BOGOF,Get 5% off,16,2953,East,Online,BU218,Retail Store
+511,03-06-2022,19001,Fitbit Versa,Smart Watches,22.82,9.1,Bonus Buy,Free subscription,13,1498,East,Online,BU204,Retail Store
+512,13-01-2022,20001,Apple Watch,Smart Watches,19.01,6.91,Free Gift,Free subscription,43,2435,South,In-store,BU210,DistributionCenter
+513,10-11-2023,21001,Apple Watch,Smart Watches,16.79,9.6,Bonus Buy,Free subscription,20,1814,North,In-store,BU216,Retail Store
+514,21-02-2022,21001,Apple Watch,Smart Watches,21.04,7.43,Free Gift,Get 5% off on earbuds,26,2031,Central,In-store,BU200,Retail Store
+515,20-01-2022,20001,Fitbit Versa,Smart Watches,13.59,6.04,Discount,Free subscription,57,2272,Central,In-store,BU203,DistributionCenter
+516,04-12-2023,22001,Fitbit Versa,Smart Watches,13.55,7.35,Bonus Buy,Get 5% off on earbuds,52,1877,North,Catalog,BU213,DistributionCenter
+517,18-04-2023,19001,Apple Watch,Smart Watches,22.11,9.04,Discount,Get 5% off on earbuds,33,1938,North,Online,BU206,Retail Store
+518,04-05-2023,20001,Samsung Galaxy Watch,Smart Watches,14.84,8.65,Bonus Buy,Get 5% off on earbuds,33,1901,South,Online,BU211,Retail Store
+519,23-10-2023,20001,Samsung Galaxy Watch,Smart Watches,16.74,5.13,BOGOF,Free subscription,22,1771,East,Online,BU206,Retail Store
+520,22-09-2023,19001,Apple Watch,Smart Watches,21.53,7.74,Free Gift,Get 5% off,55,2361,North,In-store,BU210,Retail Store
+521,20-01-2022,22001,Apple Watch,Smart Watches,18.78,5.74,Discount,Free subscription,42,1779,Central,Catalog,BU207,DistributionCenter
+522,05-04-2023,19001,Fitbit Versa,Smart Watches,10.82,8.2,Bonus Buy,Get 5% off on earbuds,59,2927,North,In-store,BU210,Retail Store
+523,15-10-2023,22001,Fitbit Versa,Smart Watches,15.38,9.57,Discount,Get 5% off,51,2691,East,Online,BU212,DistributionCenter
+524,05-12-2023,21001,Apple Watch,Smart Watches,22.25,5.08,BOGOF,Get 5% off on earbuds,29,2587,North,Catalog,BU213,Retail Store
+525,16-10-2022,19001,Apple Watch,Smart Watches,15.6,8.75,Bonus Buy,Get 5% off,18,2375,South,Catalog,BU214,DistributionCenter
+526,31-12-2023,20001,Fitbit Versa,Smart Watches,12.68,9.17,Bonus Buy,Get 5% off on earbuds,41,2783,East,Online,BU215,Retail Store
+527,27-02-2022,22001,Fitbit Versa,Smart Watches,15.26,7.44,Free Gift,Get 5% off on earbuds,38,1909,East,In-store,BU211,Retail Store
+528,22-09-2023,22001,Samsung Galaxy Watch,Smart Watches,10.95,6.6,BOGOF,Free subscription,46,2498,Central,In-store,BU219,Retail Store
+529,14-09-2023,20001,Samsung Galaxy Watch,Smart Watches,15.28,8.44,Free Gift,Get 5% off on earbuds,16,1936,South,In-store,BU202,Retail Store
+530,25-01-2022,20001,Apple Watch,Smart Watches,16.69,8.93,Bonus Buy,Get 5% off,15,2979,North,Online,BU202,Retail Store
+531,12-11-2022,21001,Apple Watch,Smart Watches,17.75,7.01,Free Gift,Free subscription,24,2993,South,Online,BU202,Retail Store
+532,29-09-2023,19001,Apple Watch,Smart Watches,19.61,8.36,Discount,Free subscription,50,2063,North,Online,BU219,Retail Store
+533,02-05-2022,19001,Apple Watch,Smart Watches,24.85,8.97,BOGOF,Free subscription,55,2428,East,In-store,BU213,DistributionCenter
+534,12-08-2023,20001,Apple Watch,Smart Watches,14.41,7.94,Discount,Get 5% off on earbuds,24,2576,South,Catalog,BU215,Retail Store
+535,27-08-2023,20001,Samsung Galaxy Watch,Smart Watches,10.41,7.25,Free Gift,Free subscription,34,1302,West,Online,BU215,Retail Store
+536,17-06-2023,22001,Samsung Galaxy Watch,Smart Watches,15.14,7.31,BOGOF,Get 5% off,23,1489,South,In-store,BU204,Retail Store
+537,17-04-2023,22001,Samsung Galaxy Watch,Smart Watches,21.97,5.06,Free Gift,Free subscription,27,1722,West,In-store,BU207,DistributionCenter
+538,21-05-2023,19001,Apple Watch,Smart Watches,16.97,9.47,BOGOF,Free subscription,48,2106,South,Online,BU215,DistributionCenter
+539,14-06-2023,20001,Fitbit Versa,Smart Watches,22.3,5.67,Free Gift,Get 5% off,24,2306,West,Catalog,BU212,Retail Store
+540,21-10-2023,20001,Samsung Galaxy Watch,Smart Watches,18.68,6.22,Bonus Buy,Get 5% off on earbuds,30,2070,East,Online,BU200,Retail Store
+541,04-12-2022,21001,Apple Watch,Smart Watches,24.33,9.68,Bonus Buy,Get 5% off,51,1400,Central,In-store,BU211,Retail Store
+542,09-02-2022,21001,Samsung Galaxy Watch,Smart Watches,23.54,9.7,Discount,Get 5% off on earbuds,52,1627,West,Catalog,BU213,Retail Store
+543,15-06-2023,19001,Fitbit Versa,Smart Watches,15.09,7.26,Bonus Buy,Get 5% off on earbuds,13,1344,South,Online,BU213,DistributionCenter
+544,13-01-2023,21001,Fitbit Versa,Smart Watches,24.51,8.01,Bonus Buy,Get 5% off on earbuds,49,2385,East,Catalog,BU208,Retail Store
+545,15-05-2022,21001,Fitbit Versa,Smart Watches,23.13,9.92,Bonus Buy,Free subscription,39,1871,East,Online,BU212,Retail Store
+546,04-10-2023,19001,Samsung Galaxy Watch,Smart Watches,16.22,5.16,Bonus Buy,Get 5% off on earbuds,16,2317,North,Online,BU206,Retail Store
+547,16-09-2022,21001,Fitbit Versa,Smart Watches,24.68,5.01,Free Gift,Get 5% off,23,1532,Central,Online,BU207,Retail Store
+548,02-07-2023,21001,Fitbit Versa,Smart Watches,18.4,5.22,Discount,Get 5% off on earbuds,31,1775,West,Online,BU212,Retail Store
+549,25-10-2022,19001,Fitbit Versa,Smart Watches,22.27,5.49,BOGOF,Get 5% off on earbuds,20,2795,East,Online,BU209,Retail Store
+550,25-07-2022,22001,Samsung Galaxy Watch,Smart Watches,13.86,9.79,Discount,Free subscription,27,2825,South,Catalog,BU203,Retail Store
+551,20-02-2022,21001,Apple Watch,Smart Watches,16.14,5.46,Discount,Get 5% off,16,1433,North,In-store,BU207,Retail Store
+552,12-12-2022,22001,Apple Watch,Smart Watches,12.82,6.17,Free Gift,Get 5% off,40,2137,Central,Online,BU208,Retail Store
+553,10-12-2022,22001,Fitbit Versa,Smart Watches,20.59,6.18,Free Gift,Get 5% off on earbuds,37,1411,North,Online,BU204,Retail Store
+554,22-08-2022,21001,Apple Watch,Smart Watches,12.07,7.11,Free Gift,Get 5% off on earbuds,17,1856,West,Online,BU205,Retail Store
+555,10-12-2023,22001,Apple Watch,Smart Watches,23.3,8.31,Discount,Get 5% off on earbuds,48,1428,East,Catalog,BU201,Retail Store
+556,20-04-2023,22001,Samsung Galaxy Watch,Smart Watches,24.09,7.44,Free Gift,Free subscription,41,2710,East,In-store,BU217,Retail Store
+557,18-09-2022,20001,Samsung Galaxy Watch,Smart Watches,17.88,6.93,Discount,Free subscription,48,2006,East,Catalog,BU215,Retail Store
+558,08-12-2023,22001,Fitbit Versa,Smart Watches,10.02,5.22,Discount,Get 5% off on earbuds,39,2099,East,Online,BU217,Retail Store
+559,13-07-2022,21001,Fitbit Versa,Smart Watches,22.34,5.12,Bonus Buy,Free subscription,19,1981,Central,Online,BU215,DistributionCenter
+560,15-10-2022,19001,Samsung Galaxy Watch,Smart Watches,24.28,7.31,Bonus Buy,Free subscription,51,1814,Central,In-store,BU201,Retail Store
+561,20-07-2023,19001,Apple Watch,Smart Watches,18.7,5.01,Free Gift,Free subscription,35,1919,Central,In-store,BU201,DistributionCenter
+562,26-08-2023,19001,Fitbit Versa,Smart Watches,13.04,5.94,Discount,Get 5% off,16,2357,North,Catalog,BU205,Retail Store
+563,29-07-2022,20001,Samsung Galaxy Watch,Smart Watches,21.81,6.32,Free Gift,Get 5% off on earbuds,38,2608,Central,In-store,BU205,DistributionCenter
+564,15-01-2023,21001,Samsung Galaxy Watch,Smart Watches,11.67,7.62,BOGOF,Get 5% off,60,2985,North,Catalog,BU204,Retail Store
+565,20-02-2022,21001,Samsung Galaxy Watch,Smart Watches,15.88,6.45,Bonus Buy,Get 5% off on earbuds,50,1974,East,Online,BU219,DistributionCenter
+566,16-06-2022,20001,Samsung Galaxy Watch,Smart Watches,10.24,8.58,Bonus Buy,Free subscription,44,1516,South,In-store,BU209,Retail Store
+567,31-05-2022,19001,Samsung Galaxy Watch,Smart Watches,23.04,6.08,Discount,Get 5% off on earbuds,46,2025,Central,Catalog,BU206,DistributionCenter
+568,19-09-2022,21001,Apple Watch,Smart Watches,22.86,6.41,Free Gift,Get 5% off,54,1606,South,In-store,BU204,Retail Store
+569,21-05-2022,22001,Samsung Galaxy Watch,Smart Watches,14.81,6.97,Discount,Get 5% off on earbuds,31,1211,South,In-store,BU204,DistributionCenter
+570,08-03-2022,22001,Samsung Galaxy Watch,Smart Watches,11.75,5.66,Discount,Free subscription,19,1370,North,In-store,BU206,DistributionCenter
+571,29-12-2022,19001,Apple Watch,Smart Watches,14.29,7.12,Free Gift,Get 5% off on earbuds,41,1457,South,Catalog,BU200,DistributionCenter
+572,03-12-2023,19001,Fitbit Versa,Smart Watches,19.19,6.8,Free Gift,Get 5% off,43,2750,West,Online,BU205,DistributionCenter
+573,23-08-2022,19001,Fitbit Versa,Smart Watches,21.78,7.15,Free Gift,Get 5% off,45,2345,North,Online,BU202,DistributionCenter
+574,08-09-2023,20001,Fitbit Versa,Smart Watches,12.07,6.38,Discount,Get 5% off on earbuds,36,2540,North,Online,BU212,DistributionCenter
+575,12-04-2022,21001,Samsung Galaxy Watch,Smart Watches,17.71,6.58,Bonus Buy,Free subscription,37,2017,North,Online,BU217,Retail Store
+576,08-08-2022,21001,Samsung Galaxy Watch,Smart Watches,10.52,9.53,Bonus Buy,Get 5% off,47,2066,West,Online,BU203,DistributionCenter
+577,25-10-2023,19001,Apple Watch,Smart Watches,24.43,8.76,Bonus Buy,Free subscription,30,1247,South,Online,BU211,DistributionCenter
+578,28-04-2022,19001,Fitbit Versa,Smart Watches,24.61,7.9,Discount,Get 5% off,53,2034,North,Online,BU209,Retail Store
+579,11-03-2023,19001,Fitbit Versa,Smart Watches,14.96,5.94,Discount,Free subscription,48,1554,South,Catalog,BU208,DistributionCenter
+580,21-04-2023,22001,Samsung Galaxy Watch,Smart Watches,15.14,7.55,Bonus Buy,Free subscription,43,1520,East,In-store,BU218,Retail Store
+581,31-05-2023,20001,Fitbit Versa,Smart Watches,15.91,6.15,Free Gift,Get 5% off,25,1490,West,Online,BU219,Retail Store
+582,23-11-2023,21001,Apple Watch,Smart Watches,10.24,9.45,Bonus Buy,Get 5% off on earbuds,22,2351,West,In-store,BU204,Retail Store
+583,19-11-2023,22001,Samsung Galaxy Watch,Smart Watches,13.6,9.55,BOGOF,Free subscription,26,2018,North,Catalog,BU206,Retail Store
+584,08-12-2022,22001,Samsung Galaxy Watch,Smart Watches,21.02,8.46,Free Gift,Free subscription,11,1428,East,Catalog,BU201,DistributionCenter
+585,15-02-2022,22001,Fitbit Versa,Smart Watches,11.23,9.31,Bonus Buy,Free subscription,40,2165,Central,Online,BU212,Retail Store
+586,14-06-2022,19001,Apple Watch,Smart Watches,11.95,6.99,Free Gift,Get 5% off on earbuds,44,1405,West,Online,BU219,Retail Store
+587,30-04-2022,19001,Samsung Galaxy Watch,Smart Watches,18.26,8.76,Bonus Buy,Free subscription,34,1681,West,Online,BU215,Retail Store
+588,26-05-2022,21001,Fitbit Versa,Smart Watches,21.07,7.98,BOGOF,Get 5% off on earbuds,32,2211,South,Online,BU214,Retail Store
+589,15-05-2022,22001,Apple Watch,Smart Watches,11.43,8.42,Bonus Buy,Get 5% off,58,1520,North,Online,BU217,Retail Store
+590,20-11-2022,20001,Fitbit Versa,Smart Watches,19.64,8.08,Free Gift,Free subscription,20,1560,South,In-store,BU203,Retail Store
+591,03-12-2022,21001,Fitbit Versa,Smart Watches,24.26,7.49,BOGOF,Get 5% off on earbuds,56,1688,West,Online,BU209,DistributionCenter
+592,10-10-2023,21001,Fitbit Versa,Smart Watches,18.1,5.96,Discount,Get 5% off,18,2684,North,Online,BU210,DistributionCenter
+593,17-02-2023,21001,Samsung Galaxy Watch,Smart Watches,20.6,6.12,Bonus Buy,Get 5% off on earbuds,29,1707,East,In-store,BU215,Retail Store
+594,01-07-2022,21001,Fitbit Versa,Smart Watches,15.97,6.05,BOGOF,Free subscription,49,2605,North,Catalog,BU213,DistributionCenter
+595,23-12-2023,20001,Samsung Galaxy Watch,Smart Watches,21.68,8.54,BOGOF,Get 5% off,59,2679,West,Online,BU210,Retail Store
+596,11-02-2023,21001,Apple Watch,Smart Watches,11.23,9.25,Free Gift,Get 5% off on earbuds,26,2179,South,Online,BU219,DistributionCenter
+597,07-06-2022,21001,Fitbit Versa,Smart Watches,20.31,9.19,Bonus Buy,Get 5% off on earbuds,23,1278,West,Online,BU209,DistributionCenter
+598,17-05-2022,21001,Apple Watch,Smart Watches,19.5,8.9,BOGOF,Free subscription,43,2966,East,Online,BU216,Retail Store
+599,22-10-2022,19001,Samsung Galaxy Watch,Smart Watches,12.87,9.76,Discount,Free subscription,14,2281,South,In-store,BU205,DistributionCenter
+600,19-02-2022,21001,Fitbit Versa,Smart Watches,10.17,7.36,Discount,Get 5% off,31,2161,West,In-store,BU213,DistributionCenter
+601,02-12-2022,22001,Samsung Galaxy Watch,Smart Watches,22.72,6.41,Bonus Buy,Get 5% off,23,1621,West,Online,BU209,DistributionCenter
+602,14-01-2023,19001,Apple Watch,Smart Watches,22.83,5.91,Bonus Buy,Get 5% off on earbuds,30,2599,West,Catalog,BU208,Retail Store
+603,19-02-2023,20001,Apple Watch,Smart Watches,11.88,8.85,Free Gift,Get 5% off,35,1736,North,Online,BU214,Retail Store
+604,09-10-2022,20001,Apple Watch,Smart Watches,10.12,8.27,Bonus Buy,Get 5% off on earbuds,20,2741,West,Catalog,BU207,Retail Store
+605,28-09-2022,20001,Fitbit Versa,Smart Watches,22.77,6.56,BOGOF,Get 5% off on earbuds,59,1628,West,In-store,BU217,DistributionCenter
+606,03-02-2023,22001,Samsung Galaxy Watch,Smart Watches,15.53,8.07,Bonus Buy,Get 5% off,50,2029,Central,Online,BU204,DistributionCenter
+607,25-02-2023,21001,Apple Watch,Smart Watches,11.16,5.15,Discount,Free subscription,43,1991,Central,Catalog,BU204,DistributionCenter
+608,22-06-2022,21001,Samsung Galaxy Watch,Smart Watches,14.04,7.66,BOGOF,Get 5% off,58,2486,South,Online,BU204,Retail Store
+609,20-11-2022,20001,Apple Watch,Smart Watches,23.5,5.93,Free Gift,Get 5% off,21,2624,West,In-store,BU205,Retail Store
+610,03-06-2022,22001,Samsung Galaxy Watch,Smart Watches,13.97,5.34,Bonus Buy,Free subscription,60,2273,South,In-store,BU212,DistributionCenter
+611,27-07-2023,22001,Samsung Galaxy Watch,Smart Watches,16.79,6.87,Bonus Buy,Get 5% off,21,1383,West,Online,BU209,DistributionCenter
+612,19-02-2022,20001,Fitbit Versa,Smart Watches,14.02,7.37,Discount,Get 5% off,49,2604,Central,Online,BU208,Retail Store
+613,26-11-2023,21001,Fitbit Versa,Smart Watches,18.18,6.7,Bonus Buy,Get 5% off on earbuds,35,2372,North,Online,BU216,Retail Store
+614,26-04-2023,21001,Samsung Galaxy Watch,Smart Watches,10.9,9.32,Discount,Free subscription,57,2500,East,Catalog,BU212,DistributionCenter
+615,06-11-2023,19001,Samsung Galaxy Watch,Smart Watches,15.62,6.36,Bonus Buy,Get 5% off,37,2778,West,In-store,BU216,Retail Store
+616,16-08-2022,19001,Apple Watch,Smart Watches,22.24,5.75,BOGOF,Free subscription,45,1376,West,Catalog,BU214,Retail Store
+617,18-12-2023,22001,Apple Watch,Smart Watches,23.29,7.58,Discount,Get 5% off on earbuds,31,1231,West,Catalog,BU201,Retail Store
+618,13-04-2022,20001,Apple Watch,Smart Watches,13.3,8.83,Discount,Get 5% off on earbuds,45,2288,East,Online,BU215,Retail Store
+619,04-09-2022,20001,Fitbit Versa,Smart Watches,11.16,6.07,Discount,Free subscription,19,2431,South,In-store,BU200,Retail Store
+620,22-11-2022,19001,Samsung Galaxy Watch,Smart Watches,21.21,6.14,Discount,Get 5% off,17,1800,Central,Online,BU206,DistributionCenter
+621,16-07-2023,19001,Fitbit Versa,Smart Watches,17.5,5.91,BOGOF,Get 5% off,17,1536,Central,In-store,BU208,DistributionCenter
+622,08-01-2023,20001,Fitbit Versa,Smart Watches,10.84,5.65,Free Gift,Get 5% off on earbuds,11,1611,Central,In-store,BU212,Retail Store
+623,24-05-2022,20001,Apple Watch,Smart Watches,21.74,5.49,Free Gift,Get 5% off,12,1619,East,Online,BU205,DistributionCenter
+624,28-11-2022,21001,Samsung Galaxy Watch,Smart Watches,23.56,8.72,Free Gift,Get 5% off,35,1720,Central,In-store,BU218,Retail Store
+625,05-11-2023,21001,Fitbit Versa,Smart Watches,23.24,9.27,Free Gift,Get 5% off on earbuds,53,2874,East,Online,BU217,Retail Store
+626,13-07-2022,19001,Apple Watch,Smart Watches,21.16,9.04,Bonus Buy,Free subscription,43,1414,North,Catalog,BU205,Retail Store
+627,12-01-2023,19001,Apple Watch,Smart Watches,13.28,9.68,BOGOF,Get 5% off on earbuds,46,2954,North,Catalog,BU215,Retail Store
+628,07-08-2022,19001,Fitbit Versa,Smart Watches,15.07,8.62,Free Gift,Get 5% off on earbuds,25,2698,East,Catalog,BU208,Retail Store
+629,23-02-2023,22001,Samsung Galaxy Watch,Smart Watches,22.26,8.79,BOGOF,Get 5% off on earbuds,57,1522,South,Online,BU202,Retail Store
+630,13-11-2023,19001,Apple Watch,Smart Watches,15.18,6.86,BOGOF,Get 5% off,16,2830,South,Catalog,BU207,DistributionCenter
+631,16-12-2023,21001,Apple Watch,Smart Watches,16.42,9.04,Free Gift,Free subscription,40,1640,Central,Catalog,BU208,Retail Store
+632,14-04-2022,20001,Samsung Galaxy Watch,Smart Watches,13.13,5.39,BOGOF,Get 5% off,26,1886,North,In-store,BU212,Retail Store
+633,17-08-2023,19001,Fitbit Versa,Smart Watches,23.18,6.97,BOGOF,Free subscription,46,2727,South,Catalog,BU213,DistributionCenter
+634,15-06-2022,20001,Fitbit Versa,Smart Watches,22.69,6.87,Free Gift,Get 5% off on earbuds,29,1263,South,Catalog,BU202,Retail Store
+635,28-08-2022,20001,Apple Watch,Smart Watches,15.94,8.03,Free Gift,Free subscription,16,2030,Central,Catalog,BU203,DistributionCenter
+636,13-01-2022,20001,Samsung Galaxy Watch,Smart Watches,21.27,5.16,Discount,Free subscription,29,1215,North,Catalog,BU210,Retail Store
+637,06-04-2023,19001,Apple Watch,Smart Watches,15.32,5.86,Free Gift,Free subscription,25,2763,West,Online,BU203,Retail Store
+638,25-07-2023,19001,Apple Watch,Smart Watches,21.71,5.14,Discount,Get 5% off,19,2636,South,Online,BU219,DistributionCenter
+639,19-07-2023,19001,Apple Watch,Smart Watches,24.42,5.99,Bonus Buy,Free subscription,60,2407,East,Online,BU219,Retail Store
+640,29-09-2023,22001,Apple Watch,Smart Watches,19.97,5.75,BOGOF,Free subscription,12,2663,South,Catalog,BU219,DistributionCenter
+641,01-05-2022,19001,Apple Watch,Smart Watches,18.94,6.5,Discount,Get 5% off,15,2403,North,In-store,BU202,DistributionCenter
+642,11-04-2022,20001,Samsung Galaxy Watch,Smart Watches,21.9,8.19,Bonus Buy,Get 5% off,15,2123,South,Online,BU217,Retail Store
+643,17-08-2022,22001,Apple Watch,Smart Watches,15.15,6.3,Free Gift,Get 5% off on earbuds,47,1274,Central,Catalog,BU202,DistributionCenter
+644,21-08-2022,20001,Samsung Galaxy Watch,Smart Watches,13.75,8.78,BOGOF,Get 5% off,31,1369,South,Online,BU206,Retail Store
+645,04-06-2022,21001,Fitbit Versa,Smart Watches,21.48,8.59,Free Gift,Get 5% off on earbuds,53,1630,Central,Catalog,BU208,Retail Store
+646,15-03-2023,21001,Apple Watch,Smart Watches,18.88,5.71,Discount,Get 5% off,54,1999,Central,Catalog,BU203,Retail Store
+647,27-02-2023,20001,Samsung Galaxy Watch,Smart Watches,21.04,9.69,Bonus Buy,Get 5% off,33,2496,North,Catalog,BU201,Retail Store
+648,10-08-2023,21001,Apple Watch,Smart Watches,24.66,7.71,Bonus Buy,Get 5% off on earbuds,30,2037,East,Online,BU202,Retail Store
+649,27-09-2022,22001,Apple Watch,Smart Watches,16.3,9.22,Discount,Get 5% off,33,2736,West,Catalog,BU209,Retail Store
